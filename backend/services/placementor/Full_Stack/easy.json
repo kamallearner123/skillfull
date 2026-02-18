@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "C++",
+      "Assembly",
+      "Fortran",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 2,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Paint",
+      "Notepad",
+      "React",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 3,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Notepad",
+      "Excel",
+      "Paint",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 4,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "C++",
+      "Assembly",
+      "Fortran",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 5,
+    "question": "[Full_Stack Easy] Which language is used for Frontend?",
+    "options": [
+      "Fortran",
+      "Assembly",
+      "JavaScript",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 6,
+    "question": "[Full_Stack Easy] Which language is used for Frontend?",
+    "options": [
+      "JavaScript",
+      "Assembly",
+      "C++",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 7,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "React",
+      "Paint",
+      "Notepad",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 8,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Excel",
+      "Notepad",
+      "React",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 9,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "React",
+      "Paint",
+      "Notepad",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 10,
+    "question": "[Full_Stack Easy] Which language is used for Backend?",
+    "options": [
+      "C++",
+      "Assembly",
+      "Fortran",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 11,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "C++",
+      "Fortran",
+      "JavaScript",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 12,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "Assembly",
+      "JavaScript",
+      "C++",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 13,
+    "question": "[Full_Stack Easy] Which language is used for Frontend?",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Fortran",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 14,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "Fortran",
+      "Assembly",
+      "C++",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 15,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "Notepad",
+      "React",
+      "Paint",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 16,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "Excel",
+      "React",
+      "Notepad",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 17,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "Fortran",
+      "Assembly",
+      "JavaScript",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 18,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Notepad",
+      "React",
+      "Paint",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 19,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "Assembly",
+      "Fortran",
+      "JavaScript",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 20,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "JavaScript",
+      "Assembly",
+      "Fortran",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 21,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "React",
+      "Paint",
+      "Notepad",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 22,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Excel",
+      "React",
+      "Notepad",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 23,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Notepad",
+      "Paint",
+      "Excel",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 24,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Notepad",
+      "Excel",
+      "Paint",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 25,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "React",
+      "Notepad",
+      "Excel",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 26,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Notepad",
+      "React",
+      "Excel",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 27,
+    "question": "[Full_Stack Easy] Which language is used for Backend?",
+    "options": [
+      "Assembly",
+      "C++",
+      "Fortran",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 28,
+    "question": "[Full_Stack Easy] What is a framework for Database?",
+    "options": [
+      "Paint",
+      "Notepad",
+      "Excel",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 29,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Excel",
+      "Notepad",
+      "Paint",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 30,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "Assembly",
+      "JavaScript",
+      "Fortran",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 31,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "Excel",
+      "React",
+      "Notepad",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 32,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "Fortran",
+      "Assembly",
+      "C++",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 33,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Notepad",
+      "Paint",
+      "Excel",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 34,
+    "question": "[Full_Stack Easy] Which language is used for Backend?",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Assembly",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 35,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "JavaScript",
+      "Fortran",
+      "Assembly",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 36,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "Fortran",
+      "JavaScript",
+      "C++",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 37,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Notepad",
+      "React",
+      "Excel",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 38,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Fortran",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 39,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Excel",
+      "React",
+      "Notepad",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 40,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "React",
+      "Excel",
+      "Notepad",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 41,
+    "question": "[Full_Stack Easy] What is a framework for Database?",
+    "options": [
+      "React",
+      "Paint",
+      "Notepad",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 42,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "Fortran",
+      "C++",
+      "JavaScript",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 43,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "Assembly",
+      "JavaScript",
+      "C++",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 44,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "C++",
+      "Assembly",
+      "Fortran",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 45,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Fortran",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 46,
+    "question": "[Full_Stack Easy] Which language is used for Backend?",
+    "options": [
+      "Assembly",
+      "JavaScript",
+      "Fortran",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 47,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "Fortran",
+      "Assembly",
+      "JavaScript",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 48,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "C++",
+      "Assembly",
+      "Fortran",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 49,
+    "question": "[Full_Stack Easy] Which language is used for Frontend?",
+    "options": [
+      "Fortran",
+      "JavaScript",
+      "Assembly",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 50,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "Paint",
+      "Notepad",
+      "React",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 51,
+    "question": "[Full_Stack Easy] Which language is used for Frontend?",
+    "options": [
+      "JavaScript",
+      "Assembly",
+      "C++",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 52,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "Notepad",
+      "Excel",
+      "Paint",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 53,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Notepad",
+      "React",
+      "Excel",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 54,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "C++",
+      "Assembly",
+      "JavaScript",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 55,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "React",
+      "Notepad",
+      "Paint",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 56,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "React",
+      "Notepad",
+      "Paint",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 57,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "React",
+      "Paint",
+      "Excel",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 58,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "Fortran",
+      "Assembly",
+      "JavaScript",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 59,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "Paint",
+      "React",
+      "Excel",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 60,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "Excel",
+      "React",
+      "Paint",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 61,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Paint",
+      "Excel",
+      "Notepad",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 62,
+    "question": "[Full_Stack Easy] Which language is used for Frontend?",
+    "options": [
+      "Fortran",
+      "C++",
+      "Assembly",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 63,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "Assembly",
+      "JavaScript",
+      "Fortran",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 64,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Excel",
+      "Notepad",
+      "React",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 65,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "Fortran",
+      "C++",
+      "JavaScript",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 66,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "JavaScript",
+      "Assembly",
+      "Fortran",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 67,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "React",
+      "Notepad",
+      "Paint",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 68,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "Paint",
+      "Notepad",
+      "Excel",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 69,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "React",
+      "Notepad",
+      "Paint",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 70,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "Excel",
+      "React",
+      "Paint",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 71,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Fortran",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 72,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Paint",
+      "Notepad",
+      "Excel",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 73,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Paint",
+      "Excel",
+      "React",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 74,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "C++",
+      "JavaScript",
+      "Fortran",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 75,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "JavaScript",
+      "Assembly",
+      "C++",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 76,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Paint",
+      "Excel",
+      "Notepad",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 77,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "React",
+      "Excel",
+      "Notepad",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 78,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Excel",
+      "Paint",
+      "React",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 79,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "Assembly",
+      "JavaScript",
+      "C++",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 80,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "Notepad",
+      "Excel",
+      "Paint",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 81,
+    "question": "[Full_Stack Easy] What is a framework for Database?",
+    "options": [
+      "Paint",
+      "Excel",
+      "React",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 82,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Fortran",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 83,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "React",
+      "Excel",
+      "Paint",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 84,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "Paint",
+      "Excel",
+      "React",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 85,
+    "question": "[Full_Stack Easy] What is a framework for Database?",
+    "options": [
+      "Notepad",
+      "Excel",
+      "Paint",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 86,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Excel",
+      "Notepad",
+      "Paint",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 87,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "JavaScript",
+      "Assembly",
+      "C++",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 88,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "C++",
+      "Assembly",
+      "JavaScript",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 89,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "Assembly",
+      "Fortran",
+      "JavaScript",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 90,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "Assembly",
+      "Fortran",
+      "JavaScript",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 91,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "Notepad",
+      "Paint",
+      "React",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 92,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Notepad",
+      "Paint",
+      "React",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 93,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Fortran",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 94,
+    "question": "[Full_Stack Easy] What is a framework for Database?",
+    "options": [
+      "React",
+      "Paint",
+      "Excel",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 95,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "Paint",
+      "Excel",
+      "React",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 96,
+    "question": "[Full_Stack Easy] Which language is used for Frontend?",
+    "options": [
+      "C++",
+      "Fortran",
+      "Assembly",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 97,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "Notepad",
+      "Excel",
+      "React",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 98,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "React",
+      "Paint",
+      "Excel",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 99,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "Assembly",
+      "Fortran",
+      "C++",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 100,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "React",
+      "Paint",
+      "Excel",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 101,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Notepad",
+      "React",
+      "Excel",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 102,
+    "question": "[Full_Stack Easy] What is a framework for Database?",
+    "options": [
+      "Notepad",
+      "Excel",
+      "React",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 103,
+    "question": "[Full_Stack Easy] Which language is used for Backend?",
+    "options": [
+      "JavaScript",
+      "Fortran",
+      "Assembly",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 104,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "JavaScript",
+      "Fortran",
+      "C++",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 105,
+    "question": "[Full_Stack Easy] What is a framework for Database?",
+    "options": [
+      "React",
+      "Notepad",
+      "Paint",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 106,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "C++",
+      "JavaScript",
+      "Fortran",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 107,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Excel",
+      "React",
+      "Notepad",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 108,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Paint",
+      "Excel",
+      "Notepad",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 109,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "C++",
+      "Fortran",
+      "Assembly",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 110,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Paint",
+      "Notepad",
+      "Excel",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 111,
+    "question": "[Full_Stack Easy] What is a framework for Database?",
+    "options": [
+      "Notepad",
+      "React",
+      "Paint",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 112,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "Fortran",
+      "C++",
+      "Assembly",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 113,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "C++",
+      "Assembly",
+      "Fortran",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 114,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "Paint",
+      "Notepad",
+      "React",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 115,
+    "question": "[Full_Stack Easy] What is a framework for Database?",
+    "options": [
+      "React",
+      "Paint",
+      "Excel",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 116,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "Excel",
+      "Notepad",
+      "React",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 117,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "Fortran",
+      "C++",
+      "Assembly",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 118,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "JavaScript",
+      "Assembly",
+      "Fortran",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 119,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Paint",
+      "React",
+      "Notepad",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 120,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Paint",
+      "React",
+      "Notepad",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 121,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "Fortran",
+      "C++",
+      "Assembly",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 122,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "React",
+      "Notepad",
+      "Excel",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 123,
+    "question": "[Full_Stack Easy] Which language is used for Backend?",
+    "options": [
+      "C++",
+      "JavaScript",
+      "Fortran",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 124,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "Excel",
+      "Notepad",
+      "Paint",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 125,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Excel",
+      "Paint",
+      "Notepad",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 126,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "C++",
+      "Fortran",
+      "Assembly",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 127,
+    "question": "[Full_Stack Easy] Which language is used for Frontend?",
+    "options": [
+      "JavaScript",
+      "Assembly",
+      "Fortran",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 128,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Paint",
+      "Excel",
+      "Notepad",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 129,
+    "question": "[Full_Stack Easy] Which language is used for Database?",
+    "options": [
+      "C++",
+      "JavaScript",
+      "Assembly",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 130,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "React",
+      "Excel",
+      "Paint",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 131,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "C++",
+      "Assembly",
+      "JavaScript",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 132,
+    "question": "[Full_Stack Easy] What is a framework for Database?",
+    "options": [
+      "Notepad",
+      "Paint",
+      "Excel",
+      "React"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 133,
+    "question": "[Full_Stack Easy] What is a framework for Database?",
+    "options": [
+      "Paint",
+      "React",
+      "Notepad",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 134,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "C++",
+      "JavaScript",
+      "Fortran",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 135,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Excel",
+      "React",
+      "Paint",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 136,
+    "question": "[Full_Stack Easy] Which language is used for Backend?",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Assembly",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 137,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Assembly",
+      "Fortran"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 138,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "React",
+      "Paint",
+      "Excel",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 139,
+    "question": "[Full_Stack Easy] Which language is used for API?",
+    "options": [
+      "C++",
+      "Assembly",
+      "Fortran",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 140,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "Paint",
+      "React",
+      "Notepad",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 141,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "Assembly",
+      "Fortran",
+      "C++",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 142,
+    "question": "[Full_Stack Easy] Which language is used for Deployment?",
+    "options": [
+      "Fortran",
+      "Assembly",
+      "C++",
+      "JavaScript"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 143,
+    "question": "[Full_Stack Easy] Which language is used for Frontend?",
+    "options": [
+      "Assembly",
+      "JavaScript",
+      "Fortran",
+      "C++"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 144,
+    "question": "[Full_Stack Easy] What is a framework for Database?",
+    "options": [
+      "Excel",
+      "React",
+      "Notepad",
+      "Paint"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 145,
+    "question": "[Full_Stack Easy] What is a framework for API?",
+    "options": [
+      "React",
+      "Excel",
+      "Paint",
+      "Notepad"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 146,
+    "question": "[Full_Stack Easy] Which language is used for Backend?",
+    "options": [
+      "C++",
+      "JavaScript",
+      "Fortran",
+      "Assembly"
+    ],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 147,
+    "question": "[Full_Stack Easy] What is a framework for Deployment?",
+    "options": [
+      "React",
+      "Paint",
+      "Notepad",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 148,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "React",
+      "Notepad",
+      "Paint",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 149,
+    "question": "[Full_Stack Easy] What is a framework for Frontend?",
+    "options": [
+      "React",
+      "Paint",
+      "Notepad",
+      "Excel"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 150,
+    "question": "[Full_Stack Easy] What is a framework for Backend?",
+    "options": [
+      "Paint",
+      "Notepad",
+      "Excel",
+      "React"
+    ],
+    "answer": "React"
+  }
+]

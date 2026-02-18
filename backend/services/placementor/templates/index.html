@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Placement Training Assessment</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Placement Training Assessment</h1>
+        <p>Select a subject to test your knowledge:</p>
+        <div class="subject-grid">
+            {% for subject in subjects %}
+            <a href="/subject/{{ subject }}" class="card">
+                <h2>{{ subject.replace('_', ' ') }}</h2>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

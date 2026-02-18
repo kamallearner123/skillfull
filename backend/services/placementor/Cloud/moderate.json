@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "Localhost",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 2,
+    "question": "[Cloud Moderate] What is a benefit of SaaS?",
+    "options": [
+      "Scalability",
+      "Physical access",
+      "Fixed cost",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 3,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 4,
+    "question": "[Cloud Moderate] Which service provides Serverless?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 5,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Scalability",
+      "Local storage",
+      "Fixed cost",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 6,
+    "question": "[Cloud Moderate] Which service provides Serverless?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 7,
+    "question": "[Cloud Moderate] What is a benefit of Serverless?",
+    "options": [
+      "Physical access",
+      "Local storage",
+      "Scalability",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 8,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "Localhost",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 9,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 10,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 11,
+    "question": "[Cloud Moderate] Which service provides Serverless?",
+    "options": [
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 12,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Local storage",
+      "Physical access",
+      "Scalability",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 13,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 14,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "CD-ROM",
+      "Localhost",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 15,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 16,
+    "question": "[Cloud Moderate] Which service provides SaaS?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 17,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 18,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Local storage",
+      "Scalability",
+      "Physical access",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 19,
+    "question": "[Cloud Moderate] Which service provides Serverless?",
+    "options": [
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 20,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 21,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "Localhost",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 22,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 23,
+    "question": "[Cloud Moderate] Which service provides SaaS?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 24,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 25,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Scalability",
+      "Local storage",
+      "Fixed cost",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 26,
+    "question": "[Cloud Moderate] What is a benefit of SaaS?",
+    "options": [
+      "Fixed cost",
+      "Scalability",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 27,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Physical access",
+      "Local storage",
+      "Fixed cost",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 28,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 29,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Fixed cost",
+      "Scalability",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 30,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 31,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 32,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 33,
+    "question": "[Cloud Moderate] What is a benefit of SaaS?",
+    "options": [
+      "Physical access",
+      "Scalability",
+      "Fixed cost",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 34,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "USB Drive",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 35,
+    "question": "[Cloud Moderate] What is a benefit of SaaS?",
+    "options": [
+      "Fixed cost",
+      "Scalability",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 36,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 37,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 38,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Scalability",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 39,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Scalability",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 40,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Scalability",
+      "Local storage",
+      "Fixed cost",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 41,
+    "question": "[Cloud Moderate] What is a benefit of Serverless?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Scalability",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 42,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 43,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Scalability",
+      "Fixed cost",
+      "Physical access",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 44,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Scalability",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 45,
+    "question": "[Cloud Moderate] Which service provides Serverless?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 46,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Scalability",
+      "Physical access",
+      "Fixed cost",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 47,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Scalability",
+      "Local storage",
+      "Physical access",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 48,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 49,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Scalability",
+      "Physical access",
+      "Fixed cost",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 50,
+    "question": "[Cloud Moderate] Which service provides SaaS?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 51,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "USB Drive",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 52,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Scalability",
+      "Local storage",
+      "Fixed cost",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 53,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "CD-ROM",
+      "Localhost",
+      "AWS EC2",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 54,
+    "question": "[Cloud Moderate] Which service provides SaaS?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 55,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Physical access",
+      "Scalability",
+      "Local storage",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 56,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 57,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Scalability",
+      "Physical access",
+      "Local storage",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 58,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 59,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 60,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 61,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 62,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Physical access",
+      "Scalability",
+      "Local storage",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 63,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 64,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Physical access",
+      "Local storage",
+      "Fixed cost",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 65,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Scalability",
+      "Fixed cost",
+      "Physical access",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 66,
+    "question": "[Cloud Moderate] What is a benefit of SaaS?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Scalability",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 67,
+    "question": "[Cloud Moderate] Which service provides Serverless?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 68,
+    "question": "[Cloud Moderate] Which service provides Serverless?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "AWS EC2",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 69,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Physical access",
+      "Scalability",
+      "Fixed cost",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 70,
+    "question": "[Cloud Moderate] What is a benefit of SaaS?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 71,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "CD-ROM",
+      "AWS EC2",
+      "USB Drive",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 72,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 73,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "CD-ROM",
+      "Localhost",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 74,
+    "question": "[Cloud Moderate] Which service provides Serverless?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "Localhost",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 75,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 76,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 77,
+    "question": "[Cloud Moderate] Which service provides Serverless?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "Localhost",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 78,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 79,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 80,
+    "question": "[Cloud Moderate] Which service provides Serverless?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 81,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 82,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "AWS EC2",
+      "USB Drive",
+      "Localhost",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 83,
+    "question": "[Cloud Moderate] What is a benefit of Serverless?",
+    "options": [
+      "Scalability",
+      "Physical access",
+      "Local storage",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 84,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 85,
+    "question": "[Cloud Moderate] What is a benefit of SaaS?",
+    "options": [
+      "Local storage",
+      "Physical access",
+      "Scalability",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 86,
+    "question": "[Cloud Moderate] What is a benefit of Serverless?",
+    "options": [
+      "Local storage",
+      "Scalability",
+      "Physical access",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 87,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Scalability",
+      "Local storage",
+      "Physical access",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 88,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 89,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Local storage",
+      "Physical access",
+      "Fixed cost",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 90,
+    "question": "[Cloud Moderate] What is a benefit of Serverless?",
+    "options": [
+      "Scalability",
+      "Fixed cost",
+      "Physical access",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 91,
+    "question": "[Cloud Moderate] Which service provides SaaS?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 92,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "USB Drive",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 93,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 94,
+    "question": "[Cloud Moderate] What is a benefit of Serverless?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 95,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "Localhost",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 96,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Fixed cost",
+      "Scalability",
+      "Physical access",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 97,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 98,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 99,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "Localhost",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 100,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 101,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 102,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Physical access",
+      "Local storage",
+      "Fixed cost",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 103,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 104,
+    "question": "[Cloud Moderate] Which service provides SaaS?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "Localhost",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 105,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Local storage",
+      "Physical access",
+      "Scalability",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 106,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Scalability",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 107,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "USB Drive",
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 108,
+    "question": "[Cloud Moderate] Which service provides SaaS?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 109,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 110,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "CD-ROM",
+      "AWS EC2",
+      "USB Drive",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 111,
+    "question": "[Cloud Moderate] Which service provides Serverless?",
+    "options": [
+      "Localhost",
+      "AWS EC2",
+      "USB Drive",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 112,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Scalability",
+      "Fixed cost",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 113,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 114,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 115,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 116,
+    "question": "[Cloud Moderate] What is a benefit of SaaS?",
+    "options": [
+      "Local storage",
+      "Physical access",
+      "Scalability",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 117,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 118,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "AWS EC2",
+      "USB Drive",
+      "CD-ROM",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 119,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 120,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Scalability",
+      "Local storage",
+      "Physical access",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 121,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 122,
+    "question": "[Cloud Moderate] Which service provides SaaS?",
+    "options": [
+      "CD-ROM",
+      "Localhost",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 123,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 124,
+    "question": "[Cloud Moderate] What is a benefit of SaaS?",
+    "options": [
+      "Scalability",
+      "Physical access",
+      "Fixed cost",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 125,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 126,
+    "question": "[Cloud Moderate] What is a benefit of SaaS?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 127,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 128,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 129,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Scalability",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 130,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 131,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 132,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 133,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Physical access",
+      "Local storage",
+      "Fixed cost",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 134,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Scalability",
+      "Local storage",
+      "Physical access",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 135,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 136,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Physical access",
+      "Local storage",
+      "Scalability",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 137,
+    "question": "[Cloud Moderate] What is a benefit of PaaS?",
+    "options": [
+      "Physical access",
+      "Local storage",
+      "Scalability",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 138,
+    "question": "[Cloud Moderate] What is a benefit of SaaS?",
+    "options": [
+      "Physical access",
+      "Scalability",
+      "Local storage",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 139,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 140,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "AWS EC2",
+      "USB Drive",
+      "CD-ROM",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 141,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 142,
+    "question": "[Cloud Moderate] What is a benefit of Serverless?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 143,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 144,
+    "question": "[Cloud Moderate] Which service provides PaaS?",
+    "options": [
+      "CD-ROM",
+      "Localhost",
+      "AWS EC2",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 145,
+    "question": "[Cloud Moderate] Which service provides IaaS?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 146,
+    "question": "[Cloud Moderate] What is a benefit of IaaS?",
+    "options": [
+      "Local storage",
+      "Scalability",
+      "Physical access",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 147,
+    "question": "[Cloud Moderate] Which service provides SaaS?",
+    "options": [
+      "CD-ROM",
+      "Localhost",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 148,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Physical access",
+      "Scalability",
+      "Local storage",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 149,
+    "question": "[Cloud Moderate] Which service provides Virtualization?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "USB Drive",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 150,
+    "question": "[Cloud Moderate] What is a benefit of Virtualization?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  }
+]

@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "question": "[DevOps Difficult] What tool is used for Monitoring?",
+    "options": [
+      "Jenkins",
+      "Excel",
+      "Photoshop",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 2,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Jenkins",
+      "Excel",
+      "Photoshop",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 3,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Excel",
+      "Jenkins",
+      "Photoshop",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 4,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Jenkins",
+      "Excel",
+      "Word",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 5,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Jenkins",
+      "Word",
+      "Photoshop",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 6,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Siloed teams",
+      "Continuous Integration",
+      "Waterfall development",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 7,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Siloed teams",
+      "Continuous Integration",
+      "Waterfall development",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 8,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Photoshop",
+      "Word",
+      "Jenkins",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 9,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Manual Testing",
+      "Continuous Integration",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 10,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Jenkins",
+      "Excel",
+      "Photoshop",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 11,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Word",
+      "Excel",
+      "Photoshop",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 12,
+    "question": "[DevOps Difficult] What tool is used for Infrastructure as Code?",
+    "options": [
+      "Excel",
+      "Photoshop",
+      "Jenkins",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 13,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Siloed teams",
+      "Manual Testing",
+      "Continuous Integration",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 14,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Manual Testing",
+      "Waterfall development",
+      "Siloed teams",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 15,
+    "question": "[DevOps Difficult] What tool is used for Infrastructure as Code?",
+    "options": [
+      "Jenkins",
+      "Excel",
+      "Photoshop",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 16,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Siloed teams",
+      "Waterfall development",
+      "Manual Testing",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 17,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Word",
+      "Photoshop",
+      "Excel",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 18,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Manual Testing",
+      "Continuous Integration",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 19,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Continuous Integration",
+      "Siloed teams",
+      "Manual Testing",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 20,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Continuous Integration",
+      "Siloed teams",
+      "Manual Testing",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 21,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Continuous Integration",
+      "Siloed teams",
+      "Waterfall development",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 22,
+    "question": "[DevOps Difficult] What tool is used for Infrastructure as Code?",
+    "options": [
+      "Word",
+      "Photoshop",
+      "Excel",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 23,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Manual Testing",
+      "Continuous Integration",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 24,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Jenkins",
+      "Photoshop",
+      "Word",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 25,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Jenkins",
+      "Excel",
+      "Word",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 26,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Manual Testing",
+      "Siloed teams",
+      "Continuous Integration",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 27,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Jenkins",
+      "Excel",
+      "Word",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 28,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Continuous Integration",
+      "Manual Testing",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 29,
+    "question": "[DevOps Difficult] What tool is used for Monitoring?",
+    "options": [
+      "Word",
+      "Jenkins",
+      "Excel",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 30,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Siloed teams",
+      "Manual Testing",
+      "Waterfall development",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 31,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Manual Testing",
+      "Waterfall development",
+      "Continuous Integration",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 32,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Waterfall development",
+      "Manual Testing",
+      "Continuous Integration",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 33,
+    "question": "[DevOps Difficult] What is the goal of Monitoring?",
+    "options": [
+      "Manual Testing",
+      "Siloed teams",
+      "Continuous Integration",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 34,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Siloed teams",
+      "Continuous Integration",
+      "Manual Testing",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 35,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Waterfall development",
+      "Siloed teams",
+      "Continuous Integration",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 36,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Jenkins",
+      "Word",
+      "Excel",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 37,
+    "question": "[DevOps Difficult] What is the goal of Monitoring?",
+    "options": [
+      "Siloed teams",
+      "Continuous Integration",
+      "Manual Testing",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 38,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Word",
+      "Jenkins",
+      "Photoshop",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 39,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Jenkins",
+      "Excel",
+      "Word",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 40,
+    "question": "[DevOps Difficult] What tool is used for Monitoring?",
+    "options": [
+      "Photoshop",
+      "Jenkins",
+      "Word",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 41,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Siloed teams",
+      "Manual Testing",
+      "Waterfall development",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 42,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Waterfall development",
+      "Continuous Integration",
+      "Manual Testing",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 43,
+    "question": "[DevOps Difficult] What is the goal of Monitoring?",
+    "options": [
+      "Continuous Integration",
+      "Waterfall development",
+      "Siloed teams",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 44,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Photoshop",
+      "Word",
+      "Excel",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 45,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Jenkins",
+      "Excel",
+      "Photoshop",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 46,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Word",
+      "Jenkins",
+      "Photoshop",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 47,
+    "question": "[DevOps Difficult] What tool is used for Infrastructure as Code?",
+    "options": [
+      "Photoshop",
+      "Excel",
+      "Jenkins",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 48,
+    "question": "[DevOps Difficult] What tool is used for Infrastructure as Code?",
+    "options": [
+      "Word",
+      "Excel",
+      "Jenkins",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 49,
+    "question": "[DevOps Difficult] What tool is used for Infrastructure as Code?",
+    "options": [
+      "Jenkins",
+      "Excel",
+      "Photoshop",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 50,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Siloed teams",
+      "Manual Testing",
+      "Waterfall development",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 51,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Excel",
+      "Word",
+      "Jenkins",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 52,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Waterfall development",
+      "Continuous Integration",
+      "Manual Testing",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 53,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Manual Testing",
+      "Siloed teams",
+      "Waterfall development",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 54,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Photoshop",
+      "Jenkins",
+      "Excel",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 55,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Jenkins",
+      "Word",
+      "Photoshop",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 56,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Siloed teams",
+      "Continuous Integration",
+      "Manual Testing",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 57,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Excel",
+      "Photoshop",
+      "Word",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 58,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Jenkins",
+      "Excel",
+      "Photoshop",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 59,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Continuous Integration",
+      "Waterfall development",
+      "Manual Testing",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 60,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Waterfall development",
+      "Siloed teams",
+      "Manual Testing",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 61,
+    "question": "[DevOps Difficult] What is the goal of Monitoring?",
+    "options": [
+      "Siloed teams",
+      "Continuous Integration",
+      "Waterfall development",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 62,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Continuous Integration",
+      "Waterfall development",
+      "Manual Testing",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 63,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Waterfall development",
+      "Siloed teams",
+      "Continuous Integration",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 64,
+    "question": "[DevOps Difficult] What tool is used for Infrastructure as Code?",
+    "options": [
+      "Jenkins",
+      "Photoshop",
+      "Excel",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 65,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Siloed teams",
+      "Continuous Integration",
+      "Waterfall development",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 66,
+    "question": "[DevOps Difficult] What is the goal of Monitoring?",
+    "options": [
+      "Waterfall development",
+      "Manual Testing",
+      "Siloed teams",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 67,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Waterfall development",
+      "Continuous Integration",
+      "Siloed teams",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 68,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Excel",
+      "Jenkins",
+      "Photoshop",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 69,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Siloed teams",
+      "Waterfall development",
+      "Continuous Integration",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 70,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Siloed teams",
+      "Waterfall development",
+      "Manual Testing",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 71,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Jenkins",
+      "Word",
+      "Excel",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 72,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Excel",
+      "Photoshop",
+      "Jenkins",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 73,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Word",
+      "Excel",
+      "Photoshop",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 74,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Continuous Integration",
+      "Siloed teams",
+      "Waterfall development",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 75,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Continuous Integration",
+      "Siloed teams",
+      "Manual Testing",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 76,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Continuous Integration",
+      "Waterfall development",
+      "Manual Testing",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 77,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Siloed teams",
+      "Continuous Integration",
+      "Manual Testing",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 78,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Continuous Integration",
+      "Manual Testing",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 79,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Word",
+      "Excel",
+      "Photoshop",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 80,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Siloed teams",
+      "Continuous Integration",
+      "Waterfall development",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 81,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Photoshop",
+      "Word",
+      "Excel",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 82,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Manual Testing",
+      "Waterfall development",
+      "Siloed teams",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 83,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Continuous Integration",
+      "Siloed teams",
+      "Manual Testing",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 84,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Word",
+      "Excel",
+      "Photoshop",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 85,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Excel",
+      "Word",
+      "Photoshop",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 86,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Continuous Integration",
+      "Waterfall development",
+      "Manual Testing",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 87,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Jenkins",
+      "Word",
+      "Excel",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 88,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Waterfall development",
+      "Continuous Integration",
+      "Manual Testing",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 89,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Siloed teams",
+      "Waterfall development",
+      "Manual Testing",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 90,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Siloed teams",
+      "Waterfall development",
+      "Manual Testing",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 91,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Continuous Integration",
+      "Siloed teams",
+      "Manual Testing",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 92,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Jenkins",
+      "Excel",
+      "Photoshop",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 93,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Photoshop",
+      "Word",
+      "Jenkins",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 94,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Siloed teams",
+      "Waterfall development",
+      "Continuous Integration",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 95,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Photoshop",
+      "Word",
+      "Jenkins",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 96,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Manual Testing",
+      "Siloed teams",
+      "Continuous Integration",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 97,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Siloed teams",
+      "Manual Testing",
+      "Continuous Integration",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 98,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Excel",
+      "Jenkins",
+      "Word",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 99,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Siloed teams",
+      "Waterfall development",
+      "Manual Testing",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 100,
+    "question": "[DevOps Difficult] What tool is used for Monitoring?",
+    "options": [
+      "Word",
+      "Excel",
+      "Jenkins",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 101,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Siloed teams",
+      "Waterfall development",
+      "Continuous Integration",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 102,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Continuous Integration",
+      "Manual Testing",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 103,
+    "question": "[DevOps Difficult] What tool is used for Monitoring?",
+    "options": [
+      "Jenkins",
+      "Photoshop",
+      "Excel",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 104,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Excel",
+      "Word",
+      "Photoshop",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 105,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Manual Testing",
+      "Continuous Integration",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 106,
+    "question": "[DevOps Difficult] What tool is used for Infrastructure as Code?",
+    "options": [
+      "Photoshop",
+      "Jenkins",
+      "Excel",
+      "Word"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 107,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Jenkins",
+      "Photoshop",
+      "Word",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 108,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Waterfall development",
+      "Manual Testing",
+      "Continuous Integration",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 109,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Word",
+      "Photoshop",
+      "Jenkins",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 110,
+    "question": "[DevOps Difficult] What is the goal of Monitoring?",
+    "options": [
+      "Continuous Integration",
+      "Manual Testing",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 111,
+    "question": "[DevOps Difficult] What is the goal of Monitoring?",
+    "options": [
+      "Manual Testing",
+      "Waterfall development",
+      "Siloed teams",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 112,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Word",
+      "Photoshop",
+      "Excel",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 113,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Manual Testing",
+      "Siloed teams",
+      "Continuous Integration",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 114,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Manual Testing",
+      "Siloed teams",
+      "Continuous Integration",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 115,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Continuous Integration",
+      "Manual Testing",
+      "Siloed teams",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 116,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Manual Testing",
+      "Siloed teams",
+      "Continuous Integration",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 117,
+    "question": "[DevOps Difficult] What is the goal of Monitoring?",
+    "options": [
+      "Manual Testing",
+      "Continuous Integration",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 118,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Word",
+      "Excel",
+      "Photoshop",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 119,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Waterfall development",
+      "Manual Testing",
+      "Siloed teams",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 120,
+    "question": "[DevOps Difficult] What tool is used for Monitoring?",
+    "options": [
+      "Photoshop",
+      "Jenkins",
+      "Word",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 121,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Continuous Integration",
+      "Manual Testing",
+      "Siloed teams",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 122,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Jenkins",
+      "Photoshop",
+      "Word",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 123,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Manual Testing",
+      "Waterfall development",
+      "Siloed teams",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 124,
+    "question": "[DevOps Difficult] What tool is used for Monitoring?",
+    "options": [
+      "Photoshop",
+      "Word",
+      "Jenkins",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 125,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Continuous Integration",
+      "Waterfall development",
+      "Manual Testing",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 126,
+    "question": "[DevOps Difficult] What is the goal of CI/CD?",
+    "options": [
+      "Siloed teams",
+      "Manual Testing",
+      "Waterfall development",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 127,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Siloed teams",
+      "Manual Testing",
+      "Continuous Integration",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 128,
+    "question": "[DevOps Difficult] What tool is used for Monitoring?",
+    "options": [
+      "Photoshop",
+      "Word",
+      "Jenkins",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 129,
+    "question": "[DevOps Difficult] What tool is used for Monitoring?",
+    "options": [
+      "Word",
+      "Photoshop",
+      "Excel",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 130,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Photoshop",
+      "Excel",
+      "Word",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 131,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Photoshop",
+      "Excel",
+      "Word",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 132,
+    "question": "[DevOps Difficult] What tool is used for CI/CD?",
+    "options": [
+      "Word",
+      "Jenkins",
+      "Photoshop",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 133,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Siloed teams",
+      "Waterfall development",
+      "Manual Testing",
+      "Continuous Integration"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 134,
+    "question": "[DevOps Difficult] What tool is used for Infrastructure as Code?",
+    "options": [
+      "Excel",
+      "Jenkins",
+      "Word",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 135,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Manual Testing",
+      "Siloed teams",
+      "Continuous Integration",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 136,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Continuous Integration",
+      "Waterfall development",
+      "Manual Testing",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 137,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Manual Testing",
+      "Continuous Integration",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 138,
+    "question": "[DevOps Difficult] What is the goal of Monitoring?",
+    "options": [
+      "Continuous Integration",
+      "Siloed teams",
+      "Manual Testing",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 139,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Continuous Integration",
+      "Manual Testing",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 140,
+    "question": "[DevOps Difficult] What tool is used for Infrastructure as Code?",
+    "options": [
+      "Photoshop",
+      "Jenkins",
+      "Word",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 141,
+    "question": "[DevOps Difficult] What is the goal of Infrastructure as Code?",
+    "options": [
+      "Continuous Integration",
+      "Siloed teams",
+      "Waterfall development",
+      "Manual Testing"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 142,
+    "question": "[DevOps Difficult] What tool is used for Orchestration?",
+    "options": [
+      "Word",
+      "Jenkins",
+      "Photoshop",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 143,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Word",
+      "Photoshop",
+      "Jenkins",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 144,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Siloed teams",
+      "Manual Testing",
+      "Continuous Integration",
+      "Waterfall development"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 145,
+    "question": "[DevOps Difficult] What is the goal of Containerization?",
+    "options": [
+      "Manual Testing",
+      "Continuous Integration",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 146,
+    "question": "[DevOps Difficult] What tool is used for Containerization?",
+    "options": [
+      "Word",
+      "Excel",
+      "Jenkins",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 147,
+    "question": "[DevOps Difficult] What tool is used for Infrastructure as Code?",
+    "options": [
+      "Excel",
+      "Word",
+      "Jenkins",
+      "Photoshop"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 148,
+    "question": "[DevOps Difficult] What tool is used for Monitoring?",
+    "options": [
+      "Jenkins",
+      "Word",
+      "Photoshop",
+      "Excel"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 149,
+    "question": "[DevOps Difficult] What is the goal of Orchestration?",
+    "options": [
+      "Manual Testing",
+      "Continuous Integration",
+      "Waterfall development",
+      "Siloed teams"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 150,
+    "question": "[DevOps Difficult] What tool is used for Infrastructure as Code?",
+    "options": [
+      "Photoshop",
+      "Excel",
+      "Word",
+      "Jenkins"
+    ],
+    "answer": "Jenkins"
+  }
+]

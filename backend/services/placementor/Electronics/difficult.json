@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "question": "[Electronics Difficult] What component is essential for Digital Circuits?",
+    "options": [
+      "Cloud",
+      "Software",
+      "Transistor",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 2,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Hz",
+      "Pixel",
+      "Byte",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 3,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Ohm",
+      "Byte",
+      "Hz",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 4,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Software",
+      "Algorithm",
+      "Cloud",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 5,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Algorithm",
+      "Software",
+      "Cloud",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 6,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Ohm",
+      "Pixel",
+      "Byte",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 7,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Pixel",
+      "Byte",
+      "Hz",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 8,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Cloud",
+      "Transistor",
+      "Algorithm",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 9,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Algorithm",
+      "Cloud",
+      "Software",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 10,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Byte",
+      "Ohm",
+      "Hz",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 11,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Pixel",
+      "Ohm",
+      "Hz",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 12,
+    "question": "[Electronics Difficult] What component is essential for Digital Circuits?",
+    "options": [
+      "Software",
+      "Transistor",
+      "Algorithm",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 13,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Ohm",
+      "Pixel",
+      "Byte",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 14,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Cloud",
+      "Software",
+      "Algorithm",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 15,
+    "question": "[Electronics Difficult] What is the unit of Digital Circuits?",
+    "options": [
+      "Ohm",
+      "Pixel",
+      "Byte",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 16,
+    "question": "[Electronics Difficult] What component is essential for Digital Circuits?",
+    "options": [
+      "Software",
+      "Transistor",
+      "Algorithm",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 17,
+    "question": "[Electronics Difficult] What component is essential for Microprocessors?",
+    "options": [
+      "Cloud",
+      "Transistor",
+      "Algorithm",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 18,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Software",
+      "Algorithm",
+      "Cloud",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 19,
+    "question": "[Electronics Difficult] What is the unit of Analog Circuits?",
+    "options": [
+      "Byte",
+      "Pixel",
+      "Ohm",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 20,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Pixel",
+      "Hz",
+      "Ohm",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 21,
+    "question": "[Electronics Difficult] What component is essential for Digital Circuits?",
+    "options": [
+      "Cloud",
+      "Transistor",
+      "Algorithm",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 22,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Ohm",
+      "Byte",
+      "Hz",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 23,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Ohm",
+      "Pixel",
+      "Byte",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 24,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Ohm",
+      "Byte",
+      "Hz",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 25,
+    "question": "[Electronics Difficult] What component is essential for Microprocessors?",
+    "options": [
+      "Algorithm",
+      "Cloud",
+      "Transistor",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 26,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Hz",
+      "Byte",
+      "Pixel",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 27,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Transistor",
+      "Algorithm",
+      "Software",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 28,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Cloud",
+      "Software",
+      "Transistor",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 29,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Ohm",
+      "Pixel",
+      "Hz",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 30,
+    "question": "[Electronics Difficult] What component is essential for Microprocessors?",
+    "options": [
+      "Software",
+      "Cloud",
+      "Algorithm",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 31,
+    "question": "[Electronics Difficult] What is the unit of Analog Circuits?",
+    "options": [
+      "Byte",
+      "Hz",
+      "Pixel",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 32,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Software",
+      "Cloud",
+      "Algorithm",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 33,
+    "question": "[Electronics Difficult] What is the unit of Analog Circuits?",
+    "options": [
+      "Ohm",
+      "Byte",
+      "Pixel",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 34,
+    "question": "[Electronics Difficult] What component is essential for Microprocessors?",
+    "options": [
+      "Transistor",
+      "Algorithm",
+      "Software",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 35,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Byte",
+      "Pixel",
+      "Hz",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 36,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Hz",
+      "Byte",
+      "Pixel",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 37,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Hz",
+      "Byte",
+      "Ohm",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 38,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Ohm",
+      "Pixel",
+      "Hz",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 39,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Cloud",
+      "Transistor",
+      "Algorithm",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 40,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Ohm",
+      "Byte",
+      "Pixel",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 41,
+    "question": "[Electronics Difficult] What is the unit of Analog Circuits?",
+    "options": [
+      "Pixel",
+      "Ohm",
+      "Byte",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 42,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Algorithm",
+      "Cloud",
+      "Transistor",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 43,
+    "question": "[Electronics Difficult] What component is essential for VLSI?",
+    "options": [
+      "Algorithm",
+      "Cloud",
+      "Transistor",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 44,
+    "question": "[Electronics Difficult] What component is essential for VLSI?",
+    "options": [
+      "Software",
+      "Transistor",
+      "Cloud",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 45,
+    "question": "[Electronics Difficult] What component is essential for VLSI?",
+    "options": [
+      "Cloud",
+      "Software",
+      "Transistor",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 46,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Cloud",
+      "Transistor",
+      "Algorithm",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 47,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Cloud",
+      "Software",
+      "Algorithm",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 48,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Ohm",
+      "Byte",
+      "Pixel",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 49,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Hz",
+      "Pixel",
+      "Ohm",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 50,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Hz",
+      "Byte",
+      "Pixel",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 51,
+    "question": "[Electronics Difficult] What is the unit of Analog Circuits?",
+    "options": [
+      "Ohm",
+      "Byte",
+      "Pixel",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 52,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Transistor",
+      "Cloud",
+      "Software",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 53,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Cloud",
+      "Transistor",
+      "Algorithm",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 54,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Ohm",
+      "Byte",
+      "Hz",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 55,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Ohm",
+      "Pixel",
+      "Hz",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 56,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Byte",
+      "Hz",
+      "Pixel",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 57,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Byte",
+      "Ohm",
+      "Pixel",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 58,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Software",
+      "Algorithm",
+      "Transistor",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 59,
+    "question": "[Electronics Difficult] What component is essential for VLSI?",
+    "options": [
+      "Transistor",
+      "Algorithm",
+      "Software",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 60,
+    "question": "[Electronics Difficult] What component is essential for Microprocessors?",
+    "options": [
+      "Algorithm",
+      "Cloud",
+      "Transistor",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 61,
+    "question": "[Electronics Difficult] What component is essential for Microprocessors?",
+    "options": [
+      "Cloud",
+      "Software",
+      "Algorithm",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 62,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Pixel",
+      "Byte",
+      "Ohm",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 63,
+    "question": "[Electronics Difficult] What component is essential for Microprocessors?",
+    "options": [
+      "Cloud",
+      "Algorithm",
+      "Software",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 64,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Pixel",
+      "Ohm",
+      "Hz",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 65,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Ohm",
+      "Pixel",
+      "Byte",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 66,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Pixel",
+      "Byte",
+      "Hz",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 67,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Hz",
+      "Byte",
+      "Pixel",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 68,
+    "question": "[Electronics Difficult] What is the unit of Analog Circuits?",
+    "options": [
+      "Pixel",
+      "Hz",
+      "Ohm",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 69,
+    "question": "[Electronics Difficult] What is the unit of Analog Circuits?",
+    "options": [
+      "Byte",
+      "Pixel",
+      "Hz",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 70,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Byte",
+      "Pixel",
+      "Hz",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 71,
+    "question": "[Electronics Difficult] What component is essential for Digital Circuits?",
+    "options": [
+      "Transistor",
+      "Cloud",
+      "Algorithm",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 72,
+    "question": "[Electronics Difficult] What component is essential for VLSI?",
+    "options": [
+      "Transistor",
+      "Cloud",
+      "Software",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 73,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Ohm",
+      "Pixel",
+      "Byte",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 74,
+    "question": "[Electronics Difficult] What is the unit of Analog Circuits?",
+    "options": [
+      "Hz",
+      "Pixel",
+      "Byte",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 75,
+    "question": "[Electronics Difficult] What component is essential for VLSI?",
+    "options": [
+      "Cloud",
+      "Algorithm",
+      "Transistor",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 76,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Hz",
+      "Byte",
+      "Pixel",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 77,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Transistor",
+      "Software",
+      "Algorithm",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 78,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Pixel",
+      "Byte",
+      "Hz",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 79,
+    "question": "[Electronics Difficult] What is the unit of Digital Circuits?",
+    "options": [
+      "Hz",
+      "Ohm",
+      "Byte",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 80,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Ohm",
+      "Byte",
+      "Hz",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 81,
+    "question": "[Electronics Difficult] What component is essential for VLSI?",
+    "options": [
+      "Software",
+      "Transistor",
+      "Cloud",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 82,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Hz",
+      "Byte",
+      "Pixel",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 83,
+    "question": "[Electronics Difficult] What component is essential for Microprocessors?",
+    "options": [
+      "Transistor",
+      "Software",
+      "Cloud",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 84,
+    "question": "[Electronics Difficult] What is the unit of Digital Circuits?",
+    "options": [
+      "Hz",
+      "Ohm",
+      "Pixel",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 85,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Ohm",
+      "Hz",
+      "Pixel",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 86,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Hz",
+      "Byte",
+      "Ohm",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 87,
+    "question": "[Electronics Difficult] What component is essential for Microprocessors?",
+    "options": [
+      "Transistor",
+      "Cloud",
+      "Algorithm",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 88,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Algorithm",
+      "Transistor",
+      "Cloud",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 89,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Cloud",
+      "Algorithm",
+      "Software",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 90,
+    "question": "[Electronics Difficult] What component is essential for VLSI?",
+    "options": [
+      "Cloud",
+      "Software",
+      "Transistor",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 91,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Byte",
+      "Hz",
+      "Ohm",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 92,
+    "question": "[Electronics Difficult] What is the unit of Digital Circuits?",
+    "options": [
+      "Hz",
+      "Pixel",
+      "Ohm",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 93,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Transistor",
+      "Software",
+      "Algorithm",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 94,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Cloud",
+      "Software",
+      "Transistor",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 95,
+    "question": "[Electronics Difficult] What component is essential for Microprocessors?",
+    "options": [
+      "Transistor",
+      "Software",
+      "Cloud",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 96,
+    "question": "[Electronics Difficult] What component is essential for VLSI?",
+    "options": [
+      "Algorithm",
+      "Cloud",
+      "Transistor",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 97,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Ohm",
+      "Pixel",
+      "Byte",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 98,
+    "question": "[Electronics Difficult] What is the unit of Digital Circuits?",
+    "options": [
+      "Ohm",
+      "Hz",
+      "Byte",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 99,
+    "question": "[Electronics Difficult] What component is essential for Digital Circuits?",
+    "options": [
+      "Transistor",
+      "Algorithm",
+      "Software",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 100,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Software",
+      "Transistor",
+      "Algorithm",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 101,
+    "question": "[Electronics Difficult] What component is essential for Microprocessors?",
+    "options": [
+      "Transistor",
+      "Software",
+      "Algorithm",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 102,
+    "question": "[Electronics Difficult] What is the unit of Digital Circuits?",
+    "options": [
+      "Ohm",
+      "Hz",
+      "Byte",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 103,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Pixel",
+      "Byte",
+      "Hz",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 104,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Cloud",
+      "Transistor",
+      "Software",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 105,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Hz",
+      "Byte",
+      "Ohm",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 106,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Byte",
+      "Ohm",
+      "Pixel",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 107,
+    "question": "[Electronics Difficult] What component is essential for Digital Circuits?",
+    "options": [
+      "Cloud",
+      "Transistor",
+      "Algorithm",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 108,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Ohm",
+      "Hz",
+      "Pixel",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 109,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Ohm",
+      "Hz",
+      "Byte",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 110,
+    "question": "[Electronics Difficult] What component is essential for Digital Circuits?",
+    "options": [
+      "Cloud",
+      "Software",
+      "Algorithm",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 111,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Ohm",
+      "Pixel",
+      "Byte",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 112,
+    "question": "[Electronics Difficult] What component is essential for VLSI?",
+    "options": [
+      "Cloud",
+      "Algorithm",
+      "Transistor",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 113,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Hz",
+      "Ohm",
+      "Pixel",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 114,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Byte",
+      "Hz",
+      "Ohm",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 115,
+    "question": "[Electronics Difficult] What component is essential for VLSI?",
+    "options": [
+      "Algorithm",
+      "Transistor",
+      "Cloud",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 116,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Pixel",
+      "Hz",
+      "Byte",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 117,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Ohm",
+      "Hz",
+      "Byte",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 118,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Transistor",
+      "Cloud",
+      "Software",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 119,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Pixel",
+      "Hz",
+      "Byte",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 120,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Ohm",
+      "Hz",
+      "Pixel",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 121,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Ohm",
+      "Hz",
+      "Byte",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 122,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Byte",
+      "Pixel",
+      "Ohm",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 123,
+    "question": "[Electronics Difficult] What is the unit of Analog Circuits?",
+    "options": [
+      "Byte",
+      "Pixel",
+      "Hz",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 124,
+    "question": "[Electronics Difficult] What is the unit of Analog Circuits?",
+    "options": [
+      "Hz",
+      "Byte",
+      "Pixel",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 125,
+    "question": "[Electronics Difficult] What component is essential for Microprocessors?",
+    "options": [
+      "Transistor",
+      "Algorithm",
+      "Cloud",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 126,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Hz",
+      "Byte",
+      "Ohm",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 127,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Pixel",
+      "Hz",
+      "Byte",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 128,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Software",
+      "Algorithm",
+      "Transistor",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 129,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Hz",
+      "Pixel",
+      "Ohm",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 130,
+    "question": "[Electronics Difficult] What component is essential for Digital Circuits?",
+    "options": [
+      "Algorithm",
+      "Cloud",
+      "Transistor",
+      "Software"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 131,
+    "question": "[Electronics Difficult] What is the unit of Analog Circuits?",
+    "options": [
+      "Pixel",
+      "Byte",
+      "Ohm",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 132,
+    "question": "[Electronics Difficult] What component is essential for Digital Circuits?",
+    "options": [
+      "Cloud",
+      "Algorithm",
+      "Software",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 133,
+    "question": "[Electronics Difficult] What component is essential for VLSI?",
+    "options": [
+      "Transistor",
+      "Software",
+      "Algorithm",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 134,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Algorithm",
+      "Software",
+      "Transistor",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 135,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Transistor",
+      "Software",
+      "Cloud",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 136,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Algorithm",
+      "Cloud",
+      "Software",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 137,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Ohm",
+      "Hz",
+      "Byte",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 138,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Algorithm",
+      "Software",
+      "Cloud",
+      "Transistor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 139,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Byte",
+      "Ohm",
+      "Hz",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 140,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Algorithm",
+      "Transistor",
+      "Software",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 141,
+    "question": "[Electronics Difficult] What is the unit of Digital Circuits?",
+    "options": [
+      "Hz",
+      "Byte",
+      "Ohm",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 142,
+    "question": "[Electronics Difficult] What component is essential for Analog Circuits?",
+    "options": [
+      "Transistor",
+      "Cloud",
+      "Software",
+      "Algorithm"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 143,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Pixel",
+      "Hz",
+      "Ohm",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 144,
+    "question": "[Electronics Difficult] What is the unit of VLSI?",
+    "options": [
+      "Pixel",
+      "Ohm",
+      "Hz",
+      "Byte"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 145,
+    "question": "[Electronics Difficult] What component is essential for Digital Circuits?",
+    "options": [
+      "Software",
+      "Algorithm",
+      "Transistor",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 146,
+    "question": "[Electronics Difficult] What is the unit of Digital Circuits?",
+    "options": [
+      "Byte",
+      "Ohm",
+      "Hz",
+      "Pixel"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 147,
+    "question": "[Electronics Difficult] What component is essential for Signal Processing?",
+    "options": [
+      "Software",
+      "Algorithm",
+      "Transistor",
+      "Cloud"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 148,
+    "question": "[Electronics Difficult] What is the unit of Signal Processing?",
+    "options": [
+      "Byte",
+      "Hz",
+      "Pixel",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 149,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Ohm",
+      "Byte",
+      "Pixel",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 150,
+    "question": "[Electronics Difficult] What is the unit of Microprocessors?",
+    "options": [
+      "Byte",
+      "Pixel",
+      "Ohm",
+      "Hz"
+    ],
+    "answer": "Ohm"
+  }
+]

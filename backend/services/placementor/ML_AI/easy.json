@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "question": "[ML_AI Easy] Which algorithm is used for Deep Learning?",
+    "options": [
+      "Regression",
+      "Hashing",
+      "Sorting",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 2,
+    "question": "[ML_AI Easy] Which algorithm is used for Unsupervised Learning?",
+    "options": [
+      "Sorting",
+      "Regression",
+      "Hashing",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 3,
+    "question": "[ML_AI Easy] Which algorithm is used for Supervised Learning?",
+    "options": [
+      "Hashing",
+      "Sorting",
+      "Regression",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 4,
+    "question": "[ML_AI Easy] What is the primary goal of Unsupervised Learning?",
+    "options": [
+      "To manage databases",
+      "To compile code",
+      "To learn from data",
+      "To route packets"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 5,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A network protocol",
+      "A type of variable",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 6,
+    "question": "[ML_AI Easy] What is the primary goal of Reinforcement Learning?",
+    "options": [
+      "To learn from data",
+      "To manage databases",
+      "To compile code",
+      "To route packets"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 7,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A network protocol",
+      "A hardware component",
+      "A cloud service",
+      "A type of variable"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 8,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Paging",
+      "Hashing",
+      "Sorting",
+      "Regression"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 9,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A cloud service",
+      "A network protocol",
+      "A type of variable"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 10,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A network protocol",
+      "A cloud service",
+      "A type of variable",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 11,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A type of variable",
+      "A hardware component",
+      "A cloud service",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 12,
+    "question": "[ML_AI Easy] Which algorithm is used for Deep Learning?",
+    "options": [
+      "Sorting",
+      "Paging",
+      "Hashing",
+      "Regression"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 13,
+    "question": "[ML_AI Easy] Which algorithm is used for Unsupervised Learning?",
+    "options": [
+      "Paging",
+      "Regression",
+      "Hashing",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 14,
+    "question": "[ML_AI Easy] Which algorithm is used for Supervised Learning?",
+    "options": [
+      "Hashing",
+      "Sorting",
+      "Paging",
+      "Regression"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 15,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A network protocol",
+      "A type of variable",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 16,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A network protocol",
+      "A cloud service",
+      "A type of variable",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 17,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A network protocol",
+      "A type of variable",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 18,
+    "question": "[ML_AI Easy] What is the primary goal of Neural Networks?",
+    "options": [
+      "To learn from data",
+      "To manage databases",
+      "To route packets",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 19,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A cloud service",
+      "A network protocol",
+      "A type of variable"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 20,
+    "question": "[ML_AI Easy] Which algorithm is used for Neural Networks?",
+    "options": [
+      "Sorting",
+      "Regression",
+      "Hashing",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 21,
+    "question": "[ML_AI Easy] Which algorithm is used for Supervised Learning?",
+    "options": [
+      "Paging",
+      "Sorting",
+      "Hashing",
+      "Regression"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 22,
+    "question": "[ML_AI Easy] Which algorithm is used for Supervised Learning?",
+    "options": [
+      "Hashing",
+      "Regression",
+      "Paging",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 23,
+    "question": "[ML_AI Easy] What is the primary goal of Neural Networks?",
+    "options": [
+      "To manage databases",
+      "To learn from data",
+      "To compile code",
+      "To route packets"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 24,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Regression",
+      "Paging",
+      "Hashing",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 25,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Regression",
+      "Sorting",
+      "Paging",
+      "Hashing"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 26,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A hardware component",
+      "A network protocol",
+      "A type of variable"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 27,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Hashing",
+      "Paging",
+      "Sorting",
+      "Regression"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 28,
+    "question": "[ML_AI Easy] Which algorithm is used for Unsupervised Learning?",
+    "options": [
+      "Paging",
+      "Hashing",
+      "Regression",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 29,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A network protocol",
+      "A type of variable",
+      "A cloud service",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 30,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Regression",
+      "Sorting",
+      "Hashing",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 31,
+    "question": "[ML_AI Easy] What is the primary goal of Unsupervised Learning?",
+    "options": [
+      "To route packets",
+      "To compile code",
+      "To manage databases",
+      "To learn from data"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 32,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Paging",
+      "Regression",
+      "Hashing",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 33,
+    "question": "[ML_AI Easy] What is the primary goal of Deep Learning?",
+    "options": [
+      "To compile code",
+      "To route packets",
+      "To manage databases",
+      "To learn from data"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 34,
+    "question": "[ML_AI Easy] What is the primary goal of Supervised Learning?",
+    "options": [
+      "To route packets",
+      "To learn from data",
+      "To manage databases",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 35,
+    "question": "[ML_AI Easy] What is the primary goal of Reinforcement Learning?",
+    "options": [
+      "To learn from data",
+      "To manage databases",
+      "To route packets",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 36,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A type of variable",
+      "A hardware component",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 37,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A type of variable",
+      "A network protocol",
+      "A cloud service",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 38,
+    "question": "[ML_AI Easy] What is the primary goal of Unsupervised Learning?",
+    "options": [
+      "To learn from data",
+      "To compile code",
+      "To manage databases",
+      "To route packets"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 39,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A type of variable",
+      "A network protocol",
+      "A cloud service",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 40,
+    "question": "[ML_AI Easy] What is the primary goal of Supervised Learning?",
+    "options": [
+      "To learn from data",
+      "To compile code",
+      "To route packets",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 41,
+    "question": "[ML_AI Easy] Which algorithm is used for Deep Learning?",
+    "options": [
+      "Regression",
+      "Sorting",
+      "Paging",
+      "Hashing"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 42,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Regression",
+      "Sorting",
+      "Hashing",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 43,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A network protocol",
+      "A type of variable",
+      "A cloud service"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 44,
+    "question": "[ML_AI Easy] What is the primary goal of Supervised Learning?",
+    "options": [
+      "To manage databases",
+      "To learn from data",
+      "To route packets",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 45,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A network protocol",
+      "A type of variable",
+      "A cloud service",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 46,
+    "question": "[ML_AI Easy] What is the primary goal of Reinforcement Learning?",
+    "options": [
+      "To compile code",
+      "To route packets",
+      "To learn from data",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 47,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A hardware component",
+      "A type of variable",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 48,
+    "question": "[ML_AI Easy] What is the primary goal of Neural Networks?",
+    "options": [
+      "To learn from data",
+      "To manage databases",
+      "To route packets",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 49,
+    "question": "[ML_AI Easy] What is the primary goal of Deep Learning?",
+    "options": [
+      "To compile code",
+      "To learn from data",
+      "To manage databases",
+      "To route packets"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 50,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A type of variable",
+      "A cloud service",
+      "A hardware component",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 51,
+    "question": "[ML_AI Easy] What is the primary goal of Reinforcement Learning?",
+    "options": [
+      "To compile code",
+      "To route packets",
+      "To learn from data",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 52,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A network protocol",
+      "A cloud service",
+      "A type of variable",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 53,
+    "question": "[ML_AI Easy] What is the primary goal of Unsupervised Learning?",
+    "options": [
+      "To route packets",
+      "To manage databases",
+      "To learn from data",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 54,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A type of variable",
+      "A cloud service",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 55,
+    "question": "[ML_AI Easy] Which algorithm is used for Deep Learning?",
+    "options": [
+      "Sorting",
+      "Hashing",
+      "Paging",
+      "Regression"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 56,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A network protocol",
+      "A cloud service",
+      "A type of variable",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 57,
+    "question": "[ML_AI Easy] Which algorithm is used for Deep Learning?",
+    "options": [
+      "Paging",
+      "Regression",
+      "Sorting",
+      "Hashing"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 58,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A network protocol",
+      "A type of variable",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 59,
+    "question": "[ML_AI Easy] What is the primary goal of Deep Learning?",
+    "options": [
+      "To learn from data",
+      "To route packets",
+      "To compile code",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 60,
+    "question": "[ML_AI Easy] Which algorithm is used for Neural Networks?",
+    "options": [
+      "Paging",
+      "Regression",
+      "Hashing",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 61,
+    "question": "[ML_AI Easy] What is the primary goal of Unsupervised Learning?",
+    "options": [
+      "To manage databases",
+      "To route packets",
+      "To learn from data",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 62,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Hashing",
+      "Paging",
+      "Regression",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 63,
+    "question": "[ML_AI Easy] What is the primary goal of Neural Networks?",
+    "options": [
+      "To learn from data",
+      "To compile code",
+      "To route packets",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 64,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A hardware component",
+      "A network protocol",
+      "A type of variable"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 65,
+    "question": "[ML_AI Easy] What is the primary goal of Reinforcement Learning?",
+    "options": [
+      "To learn from data",
+      "To manage databases",
+      "To route packets",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 66,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A type of variable",
+      "A cloud service",
+      "A network protocol",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 67,
+    "question": "[ML_AI Easy] What is the primary goal of Reinforcement Learning?",
+    "options": [
+      "To learn from data",
+      "To route packets",
+      "To compile code",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 68,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A type of variable",
+      "A cloud service",
+      "A network protocol",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 69,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A network protocol",
+      "A hardware component",
+      "A type of variable",
+      "A cloud service"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 70,
+    "question": "[ML_AI Easy] What is the primary goal of Deep Learning?",
+    "options": [
+      "To learn from data",
+      "To compile code",
+      "To route packets",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 71,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A cloud service",
+      "A type of variable",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 72,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A network protocol",
+      "A type of variable",
+      "A hardware component",
+      "A cloud service"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 73,
+    "question": "[ML_AI Easy] What is the primary goal of Deep Learning?",
+    "options": [
+      "To manage databases",
+      "To learn from data",
+      "To route packets",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 74,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Regression",
+      "Paging",
+      "Hashing",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 75,
+    "question": "[ML_AI Easy] What is the primary goal of Reinforcement Learning?",
+    "options": [
+      "To manage databases",
+      "To route packets",
+      "To learn from data",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 76,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A network protocol",
+      "A cloud service",
+      "A type of variable"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 77,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Regression",
+      "Paging",
+      "Sorting",
+      "Hashing"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 78,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A type of variable",
+      "A cloud service",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 79,
+    "question": "[ML_AI Easy] What is the primary goal of Reinforcement Learning?",
+    "options": [
+      "To learn from data",
+      "To compile code",
+      "To manage databases",
+      "To route packets"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 80,
+    "question": "[ML_AI Easy] What is the primary goal of Deep Learning?",
+    "options": [
+      "To learn from data",
+      "To route packets",
+      "To manage databases",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 81,
+    "question": "[ML_AI Easy] Which algorithm is used for Supervised Learning?",
+    "options": [
+      "Hashing",
+      "Paging",
+      "Regression",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 82,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Regression",
+      "Hashing",
+      "Sorting",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 83,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A hardware component",
+      "A network protocol",
+      "A type of variable"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 84,
+    "question": "[ML_AI Easy] Which algorithm is used for Unsupervised Learning?",
+    "options": [
+      "Regression",
+      "Sorting",
+      "Hashing",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 85,
+    "question": "[ML_AI Easy] What is the primary goal of Reinforcement Learning?",
+    "options": [
+      "To learn from data",
+      "To route packets",
+      "To manage databases",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 86,
+    "question": "[ML_AI Easy] Which algorithm is used for Neural Networks?",
+    "options": [
+      "Hashing",
+      "Regression",
+      "Sorting",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 87,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A network protocol",
+      "A type of variable",
+      "A cloud service"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 88,
+    "question": "[ML_AI Easy] Which algorithm is used for Deep Learning?",
+    "options": [
+      "Sorting",
+      "Regression",
+      "Paging",
+      "Hashing"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 89,
+    "question": "[ML_AI Easy] Which algorithm is used for Deep Learning?",
+    "options": [
+      "Regression",
+      "Sorting",
+      "Hashing",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 90,
+    "question": "[ML_AI Easy] What is the primary goal of Deep Learning?",
+    "options": [
+      "To compile code",
+      "To route packets",
+      "To learn from data",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 91,
+    "question": "[ML_AI Easy] Which algorithm is used for Deep Learning?",
+    "options": [
+      "Regression",
+      "Paging",
+      "Sorting",
+      "Hashing"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 92,
+    "question": "[ML_AI Easy] Which algorithm is used for Supervised Learning?",
+    "options": [
+      "Regression",
+      "Paging",
+      "Sorting",
+      "Hashing"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 93,
+    "question": "[ML_AI Easy] What is the primary goal of Reinforcement Learning?",
+    "options": [
+      "To manage databases",
+      "To learn from data",
+      "To compile code",
+      "To route packets"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 94,
+    "question": "[ML_AI Easy] What is the primary goal of Neural Networks?",
+    "options": [
+      "To route packets",
+      "To compile code",
+      "To learn from data",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 95,
+    "question": "[ML_AI Easy] What is the primary goal of Deep Learning?",
+    "options": [
+      "To route packets",
+      "To learn from data",
+      "To manage databases",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 96,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Hashing",
+      "Regression",
+      "Paging",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 97,
+    "question": "[ML_AI Easy] What is the primary goal of Reinforcement Learning?",
+    "options": [
+      "To learn from data",
+      "To compile code",
+      "To manage databases",
+      "To route packets"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 98,
+    "question": "[ML_AI Easy] What is the primary goal of Neural Networks?",
+    "options": [
+      "To route packets",
+      "To compile code",
+      "To learn from data",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 99,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A type of variable",
+      "A network protocol",
+      "A cloud service"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 100,
+    "question": "[ML_AI Easy] Which algorithm is used for Deep Learning?",
+    "options": [
+      "Paging",
+      "Regression",
+      "Sorting",
+      "Hashing"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 101,
+    "question": "[ML_AI Easy] Which algorithm is used for Supervised Learning?",
+    "options": [
+      "Paging",
+      "Hashing",
+      "Sorting",
+      "Regression"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 102,
+    "question": "[ML_AI Easy] Which algorithm is used for Supervised Learning?",
+    "options": [
+      "Paging",
+      "Regression",
+      "Hashing",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 103,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A type of variable",
+      "A hardware component",
+      "A network protocol",
+      "A cloud service"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 104,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A type of variable",
+      "A network protocol",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 105,
+    "question": "[ML_AI Easy] Which algorithm is used for Unsupervised Learning?",
+    "options": [
+      "Paging",
+      "Regression",
+      "Sorting",
+      "Hashing"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 106,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A network protocol",
+      "A type of variable",
+      "A cloud service"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 107,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A type of variable",
+      "A hardware component",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 108,
+    "question": "[ML_AI Easy] What is the primary goal of Supervised Learning?",
+    "options": [
+      "To compile code",
+      "To route packets",
+      "To learn from data",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 109,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A network protocol",
+      "A type of variable",
+      "A cloud service"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 110,
+    "question": "[ML_AI Easy] Which algorithm is used for Unsupervised Learning?",
+    "options": [
+      "Hashing",
+      "Sorting",
+      "Regression",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 111,
+    "question": "[ML_AI Easy] Which algorithm is used for Neural Networks?",
+    "options": [
+      "Hashing",
+      "Regression",
+      "Sorting",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 112,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A type of variable",
+      "A hardware component",
+      "A cloud service",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 113,
+    "question": "[ML_AI Easy] Which algorithm is used for Neural Networks?",
+    "options": [
+      "Sorting",
+      "Paging",
+      "Hashing",
+      "Regression"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 114,
+    "question": "[ML_AI Easy] What is the primary goal of Unsupervised Learning?",
+    "options": [
+      "To compile code",
+      "To learn from data",
+      "To manage databases",
+      "To route packets"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 115,
+    "question": "[ML_AI Easy] Which algorithm is used for Deep Learning?",
+    "options": [
+      "Sorting",
+      "Paging",
+      "Hashing",
+      "Regression"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 116,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A type of variable",
+      "A network protocol",
+      "A hardware component",
+      "A cloud service"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 117,
+    "question": "[ML_AI Easy] What is the primary goal of Deep Learning?",
+    "options": [
+      "To compile code",
+      "To learn from data",
+      "To route packets",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 118,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A type of variable",
+      "A network protocol",
+      "A cloud service"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 119,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A cloud service",
+      "A network protocol",
+      "A type of variable"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 120,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A type of variable",
+      "A cloud service",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 121,
+    "question": "[ML_AI Easy] Which algorithm is used for Unsupervised Learning?",
+    "options": [
+      "Hashing",
+      "Sorting",
+      "Paging",
+      "Regression"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 122,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A network protocol",
+      "A cloud service",
+      "A type of variable",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 123,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A type of variable",
+      "A hardware component",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 124,
+    "question": "[ML_AI Easy] What is the primary goal of Neural Networks?",
+    "options": [
+      "To learn from data",
+      "To compile code",
+      "To manage databases",
+      "To route packets"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 125,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A type of variable",
+      "A hardware component",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 126,
+    "question": "[ML_AI Easy] What is the primary goal of Supervised Learning?",
+    "options": [
+      "To route packets",
+      "To manage databases",
+      "To learn from data",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 127,
+    "question": "[ML_AI Easy] Which algorithm is used for Neural Networks?",
+    "options": [
+      "Paging",
+      "Sorting",
+      "Hashing",
+      "Regression"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 128,
+    "question": "[ML_AI Easy] What is the primary goal of Supervised Learning?",
+    "options": [
+      "To learn from data",
+      "To manage databases",
+      "To route packets",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 129,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A network protocol",
+      "A type of variable",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 130,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A network protocol",
+      "A cloud service",
+      "A type of variable"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 131,
+    "question": "[ML_AI Easy] What is the primary goal of Supervised Learning?",
+    "options": [
+      "To compile code",
+      "To learn from data",
+      "To route packets",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 132,
+    "question": "[ML_AI Easy] Which algorithm is used for Unsupervised Learning?",
+    "options": [
+      "Sorting",
+      "Paging",
+      "Regression",
+      "Hashing"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 133,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A type of variable",
+      "A network protocol",
+      "A cloud service",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 134,
+    "question": "[ML_AI Easy] What is the primary goal of Neural Networks?",
+    "options": [
+      "To route packets",
+      "To manage databases",
+      "To compile code",
+      "To learn from data"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 135,
+    "question": "[ML_AI Easy] Which algorithm is used for Supervised Learning?",
+    "options": [
+      "Hashing",
+      "Paging",
+      "Regression",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 136,
+    "question": "[ML_AI Easy] What is the primary goal of Neural Networks?",
+    "options": [
+      "To learn from data",
+      "To manage databases",
+      "To compile code",
+      "To route packets"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 137,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A network protocol",
+      "A type of variable",
+      "A hardware component",
+      "A cloud service"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 138,
+    "question": "[ML_AI Easy] Which algorithm is used for Supervised Learning?",
+    "options": [
+      "Regression",
+      "Hashing",
+      "Paging",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 139,
+    "question": "[ML_AI Easy] What is the primary goal of Supervised Learning?",
+    "options": [
+      "To learn from data",
+      "To route packets",
+      "To compile code",
+      "To manage databases"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 140,
+    "question": "[ML_AI Easy] What is the primary goal of Neural Networks?",
+    "options": [
+      "To route packets",
+      "To manage databases",
+      "To learn from data",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 141,
+    "question": "[ML_AI Easy] Which algorithm is used for Deep Learning?",
+    "options": [
+      "Hashing",
+      "Paging",
+      "Sorting",
+      "Regression"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 142,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Hashing",
+      "Paging",
+      "Regression",
+      "Sorting"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 143,
+    "question": "[ML_AI Easy] Which algorithm is used for Unsupervised Learning?",
+    "options": [
+      "Sorting",
+      "Hashing",
+      "Regression",
+      "Paging"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 144,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A type of variable",
+      "A network protocol",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 145,
+    "question": "[ML_AI Easy] What is the primary goal of Unsupervised Learning?",
+    "options": [
+      "To manage databases",
+      "To route packets",
+      "To learn from data",
+      "To compile code"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 146,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A cloud service",
+      "A hardware component",
+      "A type of variable",
+      "A network protocol"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 147,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A type of variable",
+      "A network protocol",
+      "A cloud service",
+      "A hardware component"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 148,
+    "question": "[ML_AI Easy] In ML, what does Parameter mean?",
+    "options": [
+      "A hardware component",
+      "A network protocol",
+      "A cloud service",
+      "A type of variable"
+    ],
+    "answer": "A type of variable"
+  },
+  {
+    "id": 149,
+    "question": "[ML_AI Easy] What is the primary goal of Unsupervised Learning?",
+    "options": [
+      "To route packets",
+      "To compile code",
+      "To manage databases",
+      "To learn from data"
+    ],
+    "answer": "To learn from data"
+  },
+  {
+    "id": 150,
+    "question": "[ML_AI Easy] Which algorithm is used for Reinforcement Learning?",
+    "options": [
+      "Sorting",
+      "Hashing",
+      "Regression",
+      "Paging"
+    ],
+    "answer": "Regression"
+  }
+]

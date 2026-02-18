@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - {{ subject }} ({{ difficulty }})</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>{{ subject.replace('_', ' ') }} - {{ difficulty.capitalize() }}</h1>
+            <div id="timer">Time: <span id="time">00:00</span></div>
+        </header>
+
+        <form id="quiz-form">
+            {% for question in questions %}
+            <div class="question-card" data-id="{{ question.id }}">
+                <h3>Q{{ loop.index }}: {{ question.question }}</h3>
+                <div class="options">
+                    {% for option in question.options %}
+                    <label>
+                        <input type="radio" name="q{{ question.id }}" value="{{ option }}">
+                        {{ option }}
+                    </label>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endfor %}
+            <button type="submit" class="btn btn-submit">Submit Quiz</button>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById('quiz-form').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const answers = {};
+            const formData = new FormData(this);
+
+            // Iterate over all questions to collect answers
+            document.querySelectorAll('.question-card').forEach(card => {
+                const qId = card.getAttribute('data-id');
+                const selected = formData.get('q' + qId);
+                if (selected) {
+                    answers[qId] = selected;
+                }
+            });
+
+            fetch('/submit', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    subject: "{{ subject }}",
+                    difficulty: "{{ difficulty }}",
+                    answers: answers
+                })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    // Redirect to result page or show modal
+                    // Simplest: store result in localStorage and redirect
+                    localStorage.setItem('quizResult', JSON.stringify(data));
+                    window.location.href = '/result';
+                });
+        });
+
+        // Simple Timer
+        let seconds = 0;
+        setInterval(() => {
+            seconds++;
+            const mins = Math.floor(seconds / 60);
+            const secs = seconds % 60;
+            document.getElementById('time').textContent =
+                (mins < 10 ? '0' : '') + mins + ':' + (secs < 10 ? '0' : '') + secs;
+        }, 1000);
+    </script>
+</body>
+
+</html>

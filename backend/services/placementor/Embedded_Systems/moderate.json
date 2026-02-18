@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Power consumption",
+      "Disk space",
+      "Network bandwidth",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 2,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 3,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "Intel i9",
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 4,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Disk space",
+      "Power consumption",
+      "Network bandwidth",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 5,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Disk space",
+      "Power consumption",
+      "Screen size",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 6,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Actuators?",
+    "options": [
+      "Intel i9",
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 7,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "Intel i9",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 8,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "Intel i9",
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 9,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Network bandwidth",
+      "Screen size",
+      "Disk space",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 10,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Disk space",
+      "Power consumption",
+      "Network bandwidth",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 11,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Power consumption",
+      "Network bandwidth",
+      "Disk space",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 12,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Screen size",
+      "Disk space",
+      "Network bandwidth",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 13,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "Intel i9",
+      "Nvidia RTX",
+      "ARM Cortex",
+      "AMD Ryzen"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 14,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Power consumption",
+      "Disk space",
+      "Network bandwidth",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 15,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Screen size",
+      "Power consumption",
+      "Disk space",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 16,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "ARM Cortex",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 17,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 18,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Network bandwidth",
+      "Screen size",
+      "Power consumption",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 19,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "Nvidia RTX",
+      "Intel i9",
+      "AMD Ryzen",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 20,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Network bandwidth",
+      "Screen size",
+      "Power consumption",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 21,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Intel i9",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 22,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Network bandwidth",
+      "Screen size",
+      "Power consumption",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 23,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Network bandwidth",
+      "Disk space",
+      "Power consumption",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 24,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Network bandwidth",
+      "Power consumption",
+      "Disk space",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 25,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "ARM Cortex",
+      "Nvidia RTX",
+      "AMD Ryzen",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 26,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Network bandwidth",
+      "Disk space",
+      "Screen size",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 27,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "Nvidia RTX",
+      "Intel i9",
+      "AMD Ryzen",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 28,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Nvidia RTX",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 29,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "Nvidia RTX",
+      "AMD Ryzen",
+      "Intel i9",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 30,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Power consumption",
+      "Disk space",
+      "Screen size",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 31,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Nvidia RTX",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 32,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Screen size",
+      "Power consumption",
+      "Network bandwidth",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 33,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "ARM Cortex",
+      "Intel i9",
+      "Nvidia RTX",
+      "AMD Ryzen"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 34,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Power consumption",
+      "Disk space",
+      "Screen size",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 35,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Disk space",
+      "Screen size",
+      "Network bandwidth",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 36,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Network bandwidth",
+      "Power consumption",
+      "Screen size",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 37,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "Intel i9",
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 38,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Screen size",
+      "Disk space",
+      "Power consumption",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 39,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "ARM Cortex",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 40,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Screen size",
+      "Power consumption",
+      "Disk space",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 41,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Intel i9",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 42,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 43,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Network bandwidth",
+      "Screen size",
+      "Disk space",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 44,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Screen size",
+      "Disk space",
+      "Network bandwidth",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 45,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Actuators?",
+    "options": [
+      "Intel i9",
+      "Nvidia RTX",
+      "ARM Cortex",
+      "AMD Ryzen"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 46,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Screen size",
+      "Disk space",
+      "Power consumption",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 47,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 48,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "ARM Cortex",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 49,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 50,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Screen size",
+      "Disk space",
+      "Power consumption",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 51,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Network bandwidth",
+      "Disk space",
+      "Power consumption",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 52,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "AMD Ryzen",
+      "Intel i9",
+      "Nvidia RTX",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 53,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Power consumption",
+      "Screen size",
+      "Disk space",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 54,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "ARM Cortex",
+      "Intel i9",
+      "AMD Ryzen",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 55,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "Intel i9",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 56,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "Intel i9",
+      "Nvidia RTX",
+      "ARM Cortex",
+      "AMD Ryzen"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 57,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "Nvidia RTX",
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 58,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "Nvidia RTX",
+      "AMD Ryzen",
+      "Intel i9",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 59,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Actuators?",
+    "options": [
+      "Intel i9",
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 60,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Network bandwidth",
+      "Power consumption",
+      "Disk space",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 61,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Power consumption",
+      "Screen size",
+      "Network bandwidth",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 62,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "Nvidia RTX",
+      "Intel i9",
+      "ARM Cortex",
+      "AMD Ryzen"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 63,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Disk space",
+      "Power consumption",
+      "Screen size",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 64,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "Intel i9",
+      "Nvidia RTX",
+      "ARM Cortex",
+      "AMD Ryzen"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 65,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Nvidia RTX",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 66,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Power consumption",
+      "Network bandwidth",
+      "Disk space",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 67,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Screen size",
+      "Disk space",
+      "Network bandwidth",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 68,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "Intel i9",
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 69,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Network bandwidth",
+      "Disk space",
+      "Power consumption",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 70,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "AMD Ryzen",
+      "Intel i9",
+      "ARM Cortex",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 71,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "AMD Ryzen",
+      "Intel i9",
+      "ARM Cortex",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 72,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Actuators?",
+    "options": [
+      "Nvidia RTX",
+      "AMD Ryzen",
+      "Intel i9",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 73,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "Nvidia RTX",
+      "Intel i9",
+      "AMD Ryzen",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 74,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "Intel i9",
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 75,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Disk space",
+      "Network bandwidth",
+      "Power consumption",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 76,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Network bandwidth",
+      "Screen size",
+      "Disk space",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 77,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Actuators?",
+    "options": [
+      "AMD Ryzen",
+      "Intel i9",
+      "ARM Cortex",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 78,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Actuators?",
+    "options": [
+      "ARM Cortex",
+      "Intel i9",
+      "Nvidia RTX",
+      "AMD Ryzen"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 79,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "Nvidia RTX",
+      "Intel i9",
+      "ARM Cortex",
+      "AMD Ryzen"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 80,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Network bandwidth",
+      "Power consumption",
+      "Disk space",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 81,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "Intel i9",
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 82,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Network bandwidth",
+      "Disk space",
+      "Power consumption",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 83,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Power consumption",
+      "Disk space",
+      "Network bandwidth",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 84,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Disk space",
+      "Screen size",
+      "Power consumption",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 85,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Actuators?",
+    "options": [
+      "Nvidia RTX",
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 86,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Power consumption",
+      "Screen size",
+      "Disk space",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 87,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Network bandwidth",
+      "Power consumption",
+      "Screen size",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 88,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Network bandwidth",
+      "Power consumption",
+      "Screen size",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 89,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Intel i9",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 90,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Intel i9",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 91,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "ARM Cortex",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 92,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Disk space",
+      "Power consumption",
+      "Screen size",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 93,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Network bandwidth",
+      "Disk space",
+      "Power consumption",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 94,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Disk space",
+      "Screen size",
+      "Power consumption",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 95,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Power consumption",
+      "Screen size",
+      "Network bandwidth",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 96,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Power consumption",
+      "Screen size",
+      "Network bandwidth",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 97,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Disk space",
+      "Screen size",
+      "Power consumption",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 98,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "Intel i9",
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 99,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Network bandwidth",
+      "Power consumption",
+      "Screen size",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 100,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Disk space",
+      "Network bandwidth",
+      "Power consumption",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 101,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Disk space",
+      "Power consumption",
+      "Network bandwidth",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 102,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "Nvidia RTX",
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 103,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "Intel i9",
+      "Nvidia RTX",
+      "AMD Ryzen",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 104,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Power consumption",
+      "Disk space",
+      "Network bandwidth",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 105,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Screen size",
+      "Disk space",
+      "Power consumption",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 106,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Power consumption",
+      "Screen size",
+      "Disk space",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 107,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Power consumption",
+      "Network bandwidth",
+      "Screen size",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 108,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Power consumption",
+      "Disk space",
+      "Network bandwidth",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 109,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "Nvidia RTX",
+      "AMD Ryzen",
+      "Intel i9",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 110,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "Nvidia RTX",
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 111,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Screen size",
+      "Network bandwidth",
+      "Power consumption",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 112,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Power consumption",
+      "Disk space",
+      "Screen size",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 113,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "ARM Cortex",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 114,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Screen size",
+      "Network bandwidth",
+      "Disk space",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 115,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Actuators?",
+    "options": [
+      "Intel i9",
+      "Nvidia RTX",
+      "AMD Ryzen",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 116,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Intel i9",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 117,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Disk space",
+      "Screen size",
+      "Power consumption",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 118,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Power consumption",
+      "Screen size",
+      "Network bandwidth",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 119,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "ARM Cortex",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 120,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Power consumption",
+      "Network bandwidth",
+      "Screen size",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 121,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Screen size",
+      "Network bandwidth",
+      "Disk space",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 122,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "Intel i9",
+      "Nvidia RTX",
+      "ARM Cortex",
+      "AMD Ryzen"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 123,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "ARM Cortex",
+      "Intel i9",
+      "AMD Ryzen",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 124,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "Nvidia RTX",
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 125,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Network bandwidth",
+      "Disk space",
+      "Screen size",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 126,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Disk space",
+      "Screen size",
+      "Network bandwidth",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 127,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Disk space",
+      "Network bandwidth",
+      "Power consumption",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 128,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Screen size",
+      "Disk space",
+      "Network bandwidth",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 129,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Power consumption",
+      "Network bandwidth",
+      "Disk space",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 130,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "Nvidia RTX",
+      "AMD Ryzen",
+      "ARM Cortex",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 131,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "Intel i9",
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 132,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Microcontrollers?",
+    "options": [
+      "Power consumption",
+      "Screen size",
+      "Network bandwidth",
+      "Disk space"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 133,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Power consumption",
+      "Network bandwidth",
+      "Disk space",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 134,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "ARM Cortex",
+      "Nvidia RTX",
+      "AMD Ryzen",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 135,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Disk space",
+      "Screen size",
+      "Network bandwidth",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 136,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Power consumption",
+      "Network bandwidth",
+      "Disk space",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 137,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Disk space",
+      "Power consumption",
+      "Screen size",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 138,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Sensors?",
+    "options": [
+      "ARM Cortex",
+      "Intel i9",
+      "AMD Ryzen",
+      "Nvidia RTX"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 139,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "Nvidia RTX",
+      "Intel i9",
+      "ARM Cortex",
+      "AMD Ryzen"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 140,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Actuators?",
+    "options": [
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 141,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "ARM Cortex",
+      "Intel i9",
+      "Nvidia RTX",
+      "AMD Ryzen"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 142,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Disk space",
+      "Network bandwidth",
+      "Screen size",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 143,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Sensors?",
+    "options": [
+      "Network bandwidth",
+      "Screen size",
+      "Disk space",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 144,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in Actuators?",
+    "options": [
+      "Disk space",
+      "Network bandwidth",
+      "Power consumption",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 145,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Disk space",
+      "Screen size",
+      "Power consumption",
+      "Network bandwidth"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 146,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in Microcontrollers?",
+    "options": [
+      "Intel i9",
+      "Nvidia RTX",
+      "ARM Cortex",
+      "AMD Ryzen"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 147,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in RTOS?",
+    "options": [
+      "Intel i9",
+      "AMD Ryzen",
+      "Nvidia RTX",
+      "ARM Cortex"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 148,
+    "question": "[Embedded_Systems Moderate] Which microcontroller is used in IoT?",
+    "options": [
+      "Nvidia RTX",
+      "ARM Cortex",
+      "AMD Ryzen",
+      "Intel i9"
+    ],
+    "answer": "ARM Cortex"
+  },
+  {
+    "id": 149,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in IoT?",
+    "options": [
+      "Disk space",
+      "Network bandwidth",
+      "Screen size",
+      "Power consumption"
+    ],
+    "answer": "Power consumption"
+  },
+  {
+    "id": 150,
+    "question": "[Embedded_Systems Moderate] What is a key constraint in RTOS?",
+    "options": [
+      "Disk space",
+      "Power consumption",
+      "Network bandwidth",
+      "Screen size"
+    ],
+    "answer": "Power consumption"
+  }
+]

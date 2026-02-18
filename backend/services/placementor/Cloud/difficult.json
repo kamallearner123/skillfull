@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "AWS EC2",
+      "USB Drive",
+      "CD-ROM",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 2,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "Localhost",
+      "AWS EC2",
+      "USB Drive",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 3,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Fixed cost",
+      "Scalability",
+      "Physical access",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 4,
+    "question": "[Cloud Difficult] What is a benefit of SaaS?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 5,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 6,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 7,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Scalability",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 8,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "AWS EC2",
+      "USB Drive",
+      "CD-ROM",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 9,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 10,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "CD-ROM",
+      "Localhost",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 11,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 12,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 13,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "USB Drive",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 14,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Scalability",
+      "Fixed cost",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 15,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "Localhost",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 16,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Scalability",
+      "Physical access",
+      "Local storage",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 17,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Local storage",
+      "Physical access",
+      "Scalability",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 18,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Local storage",
+      "Scalability",
+      "Fixed cost",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 19,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Local storage",
+      "Physical access",
+      "Fixed cost",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 20,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Fixed cost",
+      "Scalability",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 21,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 22,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 23,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 24,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Scalability",
+      "Physical access",
+      "Local storage",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 25,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 26,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 27,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Local storage",
+      "Scalability",
+      "Fixed cost",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 28,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Scalability",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 29,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "Localhost",
+      "AWS EC2",
+      "USB Drive",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 30,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 31,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 32,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 33,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "USB Drive",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 34,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 35,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 36,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 37,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 38,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 39,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "AWS EC2",
+      "USB Drive",
+      "Localhost",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 40,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Physical access",
+      "Scalability",
+      "Fixed cost",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 41,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 42,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Scalability",
+      "Local storage",
+      "Fixed cost",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 43,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 44,
+    "question": "[Cloud Difficult] What is a benefit of SaaS?",
+    "options": [
+      "Local storage",
+      "Physical access",
+      "Scalability",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 45,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 46,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "USB Drive",
+      "Localhost",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 47,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "USB Drive",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 48,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 49,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "AWS EC2",
+      "USB Drive",
+      "Localhost",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 50,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 51,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "AWS EC2",
+      "USB Drive",
+      "Localhost",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 52,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 53,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Scalability",
+      "Fixed cost",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 54,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Physical access",
+      "Local storage",
+      "Fixed cost",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 55,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Local storage",
+      "Scalability",
+      "Physical access",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 56,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "USB Drive",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 57,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 58,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Scalability",
+      "Fixed cost",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 59,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 60,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "CD-ROM",
+      "Localhost",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 61,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 62,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "USB Drive",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 63,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 64,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Physical access",
+      "Scalability",
+      "Fixed cost",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 65,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 66,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Physical access",
+      "Local storage",
+      "Scalability",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 67,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 68,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 69,
+    "question": "[Cloud Difficult] What is a benefit of Virtualization?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 70,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 71,
+    "question": "[Cloud Difficult] What is a benefit of Virtualization?",
+    "options": [
+      "Physical access",
+      "Scalability",
+      "Fixed cost",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 72,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "AWS EC2",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 73,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 74,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "Localhost",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 75,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "CD-ROM",
+      "Localhost",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 76,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 77,
+    "question": "[Cloud Difficult] What is a benefit of SaaS?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Scalability",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 78,
+    "question": "[Cloud Difficult] What is a benefit of Virtualization?",
+    "options": [
+      "Local storage",
+      "Physical access",
+      "Fixed cost",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 79,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Physical access",
+      "Scalability",
+      "Fixed cost",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 80,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Local storage",
+      "Fixed cost",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 81,
+    "question": "[Cloud Difficult] What is a benefit of Virtualization?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 82,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Scalability",
+      "Local storage",
+      "Physical access",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 83,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 84,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "USB Drive",
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 85,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Local storage",
+      "Scalability",
+      "Physical access",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 86,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 87,
+    "question": "[Cloud Difficult] What is a benefit of SaaS?",
+    "options": [
+      "Local storage",
+      "Physical access",
+      "Scalability",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 88,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 89,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Physical access",
+      "Local storage",
+      "Fixed cost",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 90,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 91,
+    "question": "[Cloud Difficult] What is a benefit of Virtualization?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 92,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Physical access",
+      "Scalability",
+      "Fixed cost",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 93,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Local storage",
+      "Scalability",
+      "Physical access",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 94,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 95,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 96,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 97,
+    "question": "[Cloud Difficult] What is a benefit of SaaS?",
+    "options": [
+      "Local storage",
+      "Physical access",
+      "Fixed cost",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 98,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 99,
+    "question": "[Cloud Difficult] What is a benefit of SaaS?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Scalability",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 100,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 101,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 102,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Fixed cost",
+      "Scalability",
+      "Physical access",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 103,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Scalability",
+      "Physical access",
+      "Local storage",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 104,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 105,
+    "question": "[Cloud Difficult] What is a benefit of SaaS?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 106,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 107,
+    "question": "[Cloud Difficult] What is a benefit of Virtualization?",
+    "options": [
+      "Fixed cost",
+      "Scalability",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 108,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 109,
+    "question": "[Cloud Difficult] What is a benefit of Virtualization?",
+    "options": [
+      "Physical access",
+      "Local storage",
+      "Scalability",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 110,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 111,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 112,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Scalability",
+      "Physical access",
+      "Local storage",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 113,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 114,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 115,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 116,
+    "question": "[Cloud Difficult] What is a benefit of Virtualization?",
+    "options": [
+      "Scalability",
+      "Fixed cost",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 117,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "Localhost",
+      "AWS EC2",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 118,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 119,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "Localhost",
+      "AWS EC2",
+      "USB Drive",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 120,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Physical access",
+      "Scalability",
+      "Fixed cost",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 121,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 122,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 123,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "USB Drive",
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 124,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 125,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 126,
+    "question": "[Cloud Difficult] What is a benefit of SaaS?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Local storage",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 127,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 128,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 129,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 130,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 131,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Scalability",
+      "Fixed cost",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 132,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Fixed cost",
+      "Scalability",
+      "Physical access",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 133,
+    "question": "[Cloud Difficult] What is a benefit of Serverless?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 134,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 135,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 136,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "CD-ROM",
+      "Localhost",
+      "AWS EC2",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 137,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 138,
+    "question": "[Cloud Difficult] Which service provides PaaS?",
+    "options": [
+      "Localhost",
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 139,
+    "question": "[Cloud Difficult] What is a benefit of IaaS?",
+    "options": [
+      "Physical access",
+      "Fixed cost",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 140,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Fixed cost",
+      "Physical access",
+      "Scalability",
+      "Local storage"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 141,
+    "question": "[Cloud Difficult] Which service provides IaaS?",
+    "options": [
+      "CD-ROM",
+      "Localhost",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 142,
+    "question": "[Cloud Difficult] Which service provides Serverless?",
+    "options": [
+      "USB Drive",
+      "AWS EC2",
+      "Localhost",
+      "CD-ROM"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 143,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "CD-ROM",
+      "AWS EC2",
+      "Localhost",
+      "USB Drive"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 144,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "USB Drive",
+      "AWS EC2",
+      "CD-ROM",
+      "Localhost"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 145,
+    "question": "[Cloud Difficult] What is a benefit of Virtualization?",
+    "options": [
+      "Fixed cost",
+      "Scalability",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 146,
+    "question": "[Cloud Difficult] What is a benefit of PaaS?",
+    "options": [
+      "Scalability",
+      "Local storage",
+      "Physical access",
+      "Fixed cost"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 147,
+    "question": "[Cloud Difficult] Which service provides SaaS?",
+    "options": [
+      "USB Drive",
+      "CD-ROM",
+      "Localhost",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 148,
+    "question": "[Cloud Difficult] Which service provides Virtualization?",
+    "options": [
+      "Localhost",
+      "CD-ROM",
+      "USB Drive",
+      "AWS EC2"
+    ],
+    "answer": "AWS EC2"
+  },
+  {
+    "id": 149,
+    "question": "[Cloud Difficult] What is a benefit of Virtualization?",
+    "options": [
+      "Scalability",
+      "Fixed cost",
+      "Local storage",
+      "Physical access"
+    ],
+    "answer": "Scalability"
+  },
+  {
+    "id": 150,
+    "question": "[Cloud Difficult] What is a benefit of Virtualization?",
+    "options": [
+      "Fixed cost",
+      "Local storage",
+      "Physical access",
+      "Scalability"
+    ],
+    "answer": "Scalability"
+  }
+]

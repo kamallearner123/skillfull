@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "question": "[DSA Easy] What is the time complexity of Sorting?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(n^2)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 2,
+    "question": "[DSA Easy] What is the time complexity of Sorting?",
+    "options": [
+      "O(n log n)",
+      "O(n^2)",
+      "O(n)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 3,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Linked List",
+      "Array",
+      "Hash Map",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 4,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Hash Map",
+      "Linked List",
+      "Stack",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 5,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 6,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(1)",
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 7,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Linked List",
+      "Stack",
+      "Array",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 8,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Hash Map",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 9,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 10,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Hash Map",
+      "Array",
+      "Stack",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 11,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Hash Map",
+      "Linked List",
+      "Array",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 12,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n^2)",
+      "O(1)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 13,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Linked List",
+      "Hash Map",
+      "Stack",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 14,
+    "question": "[DSA Easy] Which data structure is best for Sorting?",
+    "options": [
+      "Hash Map",
+      "Stack",
+      "Linked List",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 15,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Array",
+      "Stack",
+      "Linked List",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 16,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(1)",
+      "O(n log n)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 17,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Stack",
+      "Linked List",
+      "Array",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 18,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n log n)",
+      "O(n^2)",
+      "O(n)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 19,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(1)",
+      "O(n^2)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 20,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Array",
+      "Stack",
+      "Linked List",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 21,
+    "question": "[DSA Easy] Which data structure is best for Sorting?",
+    "options": [
+      "Linked List",
+      "Array",
+      "Stack",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 22,
+    "question": "[DSA Easy] What is the time complexity of Sorting?",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 23,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Stack",
+      "Array",
+      "Linked List",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 24,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Array",
+      "Hash Map",
+      "Stack",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 25,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Hash Map",
+      "Linked List",
+      "Array",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 26,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Stack",
+      "Hash Map",
+      "Linked List",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 27,
+    "question": "[DSA Easy] What is the time complexity of Sorting?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(1)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 28,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 29,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n^2)",
+      "O(n log n)",
+      "O(1)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 30,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 31,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Linked List",
+      "Stack",
+      "Array",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 32,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(1)",
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 33,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(n^2)",
+      "O(n)",
+      "O(1)",
+      "O(n log n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 34,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Stack",
+      "Array",
+      "Hash Map",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 35,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(1)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 36,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(1)",
+      "O(n log n)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 37,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Stack",
+      "Linked List",
+      "Hash Map",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 38,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Stack",
+      "Hash Map",
+      "Array",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 39,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Linked List",
+      "Hash Map",
+      "Array",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 40,
+    "question": "[DSA Easy] What is the time complexity of Searching?",
+    "options": [
+      "O(1)",
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 41,
+    "question": "[DSA Easy] Which data structure is best for Sorting?",
+    "options": [
+      "Stack",
+      "Hash Map",
+      "Array",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 42,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Hash Map",
+      "Linked List",
+      "Stack",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 43,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Array",
+      "Hash Map",
+      "Linked List",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 44,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(n^2)",
+      "O(n)",
+      "O(1)",
+      "O(n log n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 45,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Stack",
+      "Array",
+      "Hash Map",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 46,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Linked List",
+      "Stack",
+      "Array",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 47,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(n log n)",
+      "O(n^2)",
+      "O(n)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 48,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n log n)",
+      "O(n^2)",
+      "O(n)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 49,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 50,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 51,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(n log n)",
+      "O(n^2)",
+      "O(1)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 52,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Linked List",
+      "Array",
+      "Stack",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 53,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Hash Map",
+      "Stack",
+      "Linked List",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 54,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 55,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Stack",
+      "Array",
+      "Hash Map",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 56,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Hash Map",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 57,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n^2)",
+      "O(1)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 58,
+    "question": "[DSA Easy] What is the time complexity of Sorting?",
+    "options": [
+      "O(n log n)",
+      "O(1)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 59,
+    "question": "[DSA Easy] What is the time complexity of Sorting?",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 60,
+    "question": "[DSA Easy] What is the time complexity of Searching?",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 61,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Stack",
+      "Linked List",
+      "Hash Map",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 62,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Array",
+      "Stack",
+      "Linked List",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 63,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 64,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Linked List",
+      "Stack",
+      "Array",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 65,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Array",
+      "Hash Map",
+      "Linked List",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 66,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Hash Map",
+      "Array",
+      "Linked List",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 67,
+    "question": "[DSA Easy] What is the time complexity of Sorting?",
+    "options": [
+      "O(1)",
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 68,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Linked List",
+      "Stack",
+      "Array",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 69,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n log n)",
+      "O(n^2)",
+      "O(n)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 70,
+    "question": "[DSA Easy] What is the time complexity of Sorting?",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 71,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 72,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Array",
+      "Stack",
+      "Linked List",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 73,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n)",
+      "O(1)",
+      "O(n log n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 74,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Hash Map",
+      "Stack",
+      "Linked List",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 75,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Linked List",
+      "Stack",
+      "Array",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 76,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Hash Map",
+      "Array",
+      "Stack",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 77,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Hash Map",
+      "Linked List",
+      "Array",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 78,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(n)",
+      "O(n^2)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 79,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Array",
+      "Hash Map",
+      "Linked List",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 80,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Linked List",
+      "Stack",
+      "Hash Map",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 81,
+    "question": "[DSA Easy] What is the time complexity of Searching?",
+    "options": [
+      "O(1)",
+      "O(n log n)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 82,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(1)",
+      "O(n^2)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 83,
+    "question": "[DSA Easy] What is the time complexity of Searching?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(n^2)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 84,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n^2)",
+      "O(1)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 85,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(1)",
+      "O(n^2)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 86,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Array",
+      "Hash Map",
+      "Linked List",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 87,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 88,
+    "question": "[DSA Easy] What is the time complexity of Sorting?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(n^2)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 89,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Hash Map",
+      "Stack",
+      "Linked List",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 90,
+    "question": "[DSA Easy] Which data structure is best for Sorting?",
+    "options": [
+      "Array",
+      "Hash Map",
+      "Linked List",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 91,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 92,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Array",
+      "Hash Map",
+      "Stack",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 93,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Stack",
+      "Array",
+      "Hash Map",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 94,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Hash Map",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 95,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Stack",
+      "Array",
+      "Hash Map",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 96,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Linked List",
+      "Array",
+      "Hash Map",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 97,
+    "question": "[DSA Easy] What is the time complexity of Searching?",
+    "options": [
+      "O(n)",
+      "O(n^2)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 98,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Stack",
+      "Array",
+      "Linked List",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 99,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Stack",
+      "Hash Map",
+      "Array",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 100,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Hash Map",
+      "Array",
+      "Stack",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 101,
+    "question": "[DSA Easy] What is the time complexity of Sorting?",
+    "options": [
+      "O(1)",
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 102,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(n)",
+      "O(n^2)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 103,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Hash Map",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 104,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(n)",
+      "O(1)",
+      "O(n log n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 105,
+    "question": "[DSA Easy] Which data structure is best for Sorting?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Hash Map",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 106,
+    "question": "[DSA Easy] Which data structure is best for Sorting?",
+    "options": [
+      "Hash Map",
+      "Linked List",
+      "Stack",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 107,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Linked List",
+      "Hash Map",
+      "Array",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 108,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n log n)",
+      "O(1)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 109,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Linked List",
+      "Stack",
+      "Hash Map",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 110,
+    "question": "[DSA Easy] What is the time complexity of Sorting?",
+    "options": [
+      "O(1)",
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 111,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 112,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 113,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Hash Map",
+      "Linked List",
+      "Array",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 114,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(n^2)",
+      "O(n log n)",
+      "O(1)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 115,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Linked List",
+      "Hash Map",
+      "Stack",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 116,
+    "question": "[DSA Easy] What is the time complexity of Searching?",
+    "options": [
+      "O(1)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 117,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Linked List",
+      "Hash Map",
+      "Stack",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 118,
+    "question": "[DSA Easy] What is the time complexity of Sorting?",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 119,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Linked List",
+      "Hash Map",
+      "Array",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 120,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Stack",
+      "Array",
+      "Linked List",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 121,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Linked List",
+      "Array",
+      "Hash Map",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 122,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Hash Map",
+      "Linked List",
+      "Stack",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 123,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(n)",
+      "O(1)",
+      "O(n log n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 124,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 125,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Stack",
+      "Array",
+      "Hash Map",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 126,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(n^2)",
+      "O(n log n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 127,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 128,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 129,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(n^2)",
+      "O(1)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 130,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(n^2)",
+      "O(1)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 131,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Stack",
+      "Array",
+      "Hash Map",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 132,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(n^2)",
+      "O(n)",
+      "O(1)",
+      "O(n log n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 133,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Hash Map",
+      "Linked List",
+      "Stack",
+      "Array"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 134,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Array",
+      "Hash Map",
+      "Linked List",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 135,
+    "question": "[DSA Easy] What is the time complexity of Searching?",
+    "options": [
+      "O(n log n)",
+      "O(1)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 136,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Stack",
+      "Linked List",
+      "Array",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 137,
+    "question": "[DSA Easy] What is the time complexity of Graph Algorithms?",
+    "options": [
+      "O(n^2)",
+      "O(1)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 138,
+    "question": "[DSA Easy] Which data structure is best for Searching?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Hash Map",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 139,
+    "question": "[DSA Easy] Which data structure is best for Sorting?",
+    "options": [
+      "Hash Map",
+      "Array",
+      "Linked List",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 140,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(1)",
+      "O(n log n)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 141,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(n^2)",
+      "O(1)",
+      "O(n log n)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 142,
+    "question": "[DSA Easy] Which data structure is best for Sorting?",
+    "options": [
+      "Array",
+      "Hash Map",
+      "Linked List",
+      "Stack"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 143,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Stack",
+      "Hash Map",
+      "Array",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 144,
+    "question": "[DSA Easy] What is the time complexity of Dynamic Programming?",
+    "options": [
+      "O(1)",
+      "O(n log n)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 145,
+    "question": "[DSA Easy] Which data structure is best for Trees?",
+    "options": [
+      "Stack",
+      "Linked List",
+      "Array",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 146,
+    "question": "[DSA Easy] Which data structure is best for Dynamic Programming?",
+    "options": [
+      "Hash Map",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 147,
+    "question": "[DSA Easy] Which data structure is best for Graph Algorithms?",
+    "options": [
+      "Stack",
+      "Array",
+      "Linked List",
+      "Hash Map"
+    ],
+    "answer": "Hash Map"
+  },
+  {
+    "id": 148,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n^2)",
+      "O(n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 149,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(n^2)",
+      "O(1)"
+    ],
+    "answer": "O(n log n)"
+  },
+  {
+    "id": 150,
+    "question": "[DSA Easy] What is the time complexity of Trees?",
+    "options": [
+      "O(n log n)",
+      "O(1)",
+      "O(n^2)",
+      "O(n)"
+    ],
+    "answer": "O(n log n)"
+  }
+]

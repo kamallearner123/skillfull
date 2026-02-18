@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Difficulty - {{ subject }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <h1>{{ subject.replace('_', ' ') }}</h1>
+        <p>Select a difficulty level:</p>
+        <div class="level-grid">
+            <a href="/quiz/{{ subject }}/easy" class="btn btn-easy">Easy</a>
+            <a href="/quiz/{{ subject }}/moderate" class="btn btn-moderate">Moderate</a>
+            <a href="/quiz/{{ subject }}/difficult" class="btn btn-difficult">Difficult</a>
+        </div>
+        <a href="/" class="back-link">Back to Subjects</a>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Quiz Result</h1>
+        <div id="score-card">
+            <h2>Your Score: <span id="score"></span> / <span id="total"></span></h2>
+        </div>
+
+        <div id="breakdown">
+            <h3>Detailed Breakdown:</h3>
+            <ul id="result-list"></ul>
+        </div>
+
+        <a href="/" class="btn btn-primary">Take Another Quiz</a>
+    </div>
+
+    <script>
+        const resultData = JSON.parse(localStorage.getItem('quizResult'));
+
+        if (resultData) {
+            document.getElementById('score').textContent = resultData.score;
+            document.getElementById('total').textContent = resultData.total;
+
+            const list = document.getElementById('result-list');
+            resultData.results.forEach(item => {
+                const li = document.createElement('li');
+                li.className = item.is_correct ? 'correct' : 'incorrect';
+                li.innerHTML = `
+                    <strong>Q: ${item.question}</strong><br>
+                    Your Answer: ${item.user_answer} <br>
+                    Correct Answer: ${item.correct_answer}
+                `;
+                list.appendChild(li);
+            });
+        } else {
+            document.body.innerHTML = '<div class="container"><h2>No result found. <a href="/">Go Home</a></h2></div>';
+        }
+    </script>
+</body>
+
+</html>

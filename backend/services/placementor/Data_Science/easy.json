@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "question": "[Data_Science Easy] Step one in Statistics is?",
+    "options": [
+      "Marketing",
+      "Deployment",
+      "Data Cleaning",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 2,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "Spring",
+      "Pandas",
+      "React",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 3,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "Hibernate",
+      "Pandas",
+      "React",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 4,
+    "question": "[Data_Science Easy] Step one in Data Analysis is?",
+    "options": [
+      "Data Cleaning",
+      "Sales",
+      "Marketing",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 5,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "Spring",
+      "Hibernate",
+      "Pandas",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 6,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Marketing",
+      "Data Cleaning",
+      "Deployment",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 7,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "React",
+      "Hibernate",
+      "Pandas",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 8,
+    "question": "[Data_Science Easy] What library is used for Big Data?",
+    "options": [
+      "Spring",
+      "React",
+      "Pandas",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 9,
+    "question": "[Data_Science Easy] Step one in Visualization is?",
+    "options": [
+      "Sales",
+      "Data Cleaning",
+      "Marketing",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 10,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "Hibernate",
+      "Spring",
+      "React",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 11,
+    "question": "[Data_Science Easy] What library is used for Big Data?",
+    "options": [
+      "Pandas",
+      "Spring",
+      "Hibernate",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 12,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Data Cleaning",
+      "Sales",
+      "Deployment",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 13,
+    "question": "[Data_Science Easy] What library is used for Big Data?",
+    "options": [
+      "Spring",
+      "Hibernate",
+      "React",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 14,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "Spring",
+      "Hibernate",
+      "React",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 15,
+    "question": "[Data_Science Easy] Step one in Statistics is?",
+    "options": [
+      "Marketing",
+      "Data Cleaning",
+      "Sales",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 16,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "React",
+      "Spring",
+      "Pandas",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 17,
+    "question": "[Data_Science Easy] Step one in Statistics is?",
+    "options": [
+      "Deployment",
+      "Data Cleaning",
+      "Sales",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 18,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Deployment",
+      "Marketing",
+      "Data Cleaning",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 19,
+    "question": "[Data_Science Easy] Step one in Statistics is?",
+    "options": [
+      "Marketing",
+      "Deployment",
+      "Sales",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 20,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Marketing",
+      "Data Cleaning",
+      "Deployment",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 21,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "Spring",
+      "Hibernate",
+      "Pandas",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 22,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "React",
+      "Hibernate",
+      "Spring",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 23,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Sales",
+      "Marketing",
+      "Deployment",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 24,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "Pandas",
+      "Hibernate",
+      "Spring",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 25,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Sales",
+      "Data Cleaning",
+      "Marketing",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 26,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "Spring",
+      "Pandas",
+      "Hibernate",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 27,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "Pandas",
+      "React",
+      "Spring",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 28,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "React",
+      "Spring",
+      "Pandas",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 29,
+    "question": "[Data_Science Easy] What library is used for Big Data?",
+    "options": [
+      "Hibernate",
+      "Spring",
+      "Pandas",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 30,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Data Cleaning",
+      "Marketing",
+      "Sales",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 31,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Sales",
+      "Data Cleaning",
+      "Deployment",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 32,
+    "question": "[Data_Science Easy] Step one in Visualization is?",
+    "options": [
+      "Sales",
+      "Marketing",
+      "Data Cleaning",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 33,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Data Cleaning",
+      "Sales",
+      "Deployment",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 34,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "Spring",
+      "React",
+      "Pandas",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 35,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Marketing",
+      "Sales",
+      "Deployment",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 36,
+    "question": "[Data_Science Easy] Step one in Visualization is?",
+    "options": [
+      "Deployment",
+      "Sales",
+      "Marketing",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 37,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Sales",
+      "Deployment",
+      "Data Cleaning",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 38,
+    "question": "[Data_Science Easy] Step one in Data Analysis is?",
+    "options": [
+      "Data Cleaning",
+      "Marketing",
+      "Sales",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 39,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "React",
+      "Pandas",
+      "Hibernate",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 40,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "Spring",
+      "Pandas",
+      "React",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 41,
+    "question": "[Data_Science Easy] Step one in Data Analysis is?",
+    "options": [
+      "Deployment",
+      "Data Cleaning",
+      "Marketing",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 42,
+    "question": "[Data_Science Easy] Step one in Visualization is?",
+    "options": [
+      "Deployment",
+      "Sales",
+      "Marketing",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 43,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "Pandas",
+      "React",
+      "Spring",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 44,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Deployment",
+      "Marketing",
+      "Sales",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 45,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "React",
+      "Hibernate",
+      "Spring",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 46,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "Spring",
+      "React",
+      "Hibernate",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 47,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "React",
+      "Pandas",
+      "Spring",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 48,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "Spring",
+      "Pandas",
+      "Hibernate",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 49,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "React",
+      "Hibernate",
+      "Pandas",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 50,
+    "question": "[Data_Science Easy] Step one in Data Analysis is?",
+    "options": [
+      "Marketing",
+      "Sales",
+      "Deployment",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 51,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "Hibernate",
+      "Spring",
+      "React",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 52,
+    "question": "[Data_Science Easy] Step one in Visualization is?",
+    "options": [
+      "Sales",
+      "Marketing",
+      "Deployment",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 53,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "Spring",
+      "Hibernate",
+      "Pandas",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 54,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "React",
+      "Pandas",
+      "Hibernate",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 55,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "Hibernate",
+      "Spring",
+      "Pandas",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 56,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "React",
+      "Spring",
+      "Hibernate",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 57,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "Pandas",
+      "Spring",
+      "React",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 58,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Marketing",
+      "Data Cleaning",
+      "Sales",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 59,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Sales",
+      "Marketing",
+      "Deployment",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 60,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Marketing",
+      "Data Cleaning",
+      "Sales",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 61,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Data Cleaning",
+      "Deployment",
+      "Marketing",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 62,
+    "question": "[Data_Science Easy] What library is used for Big Data?",
+    "options": [
+      "Spring",
+      "React",
+      "Pandas",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 63,
+    "question": "[Data_Science Easy] Step one in Visualization is?",
+    "options": [
+      "Data Cleaning",
+      "Marketing",
+      "Sales",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 64,
+    "question": "[Data_Science Easy] Step one in Visualization is?",
+    "options": [
+      "Marketing",
+      "Sales",
+      "Data Cleaning",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 65,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Deployment",
+      "Sales",
+      "Data Cleaning",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 66,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Data Cleaning",
+      "Marketing",
+      "Deployment",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 67,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "React",
+      "Pandas",
+      "Spring",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 68,
+    "question": "[Data_Science Easy] Step one in Statistics is?",
+    "options": [
+      "Deployment",
+      "Sales",
+      "Marketing",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 69,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Data Cleaning",
+      "Sales",
+      "Deployment",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 70,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "Spring",
+      "Pandas",
+      "Hibernate",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 71,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Sales",
+      "Marketing",
+      "Data Cleaning",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 72,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Sales",
+      "Marketing",
+      "Deployment",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 73,
+    "question": "[Data_Science Easy] Step one in Data Analysis is?",
+    "options": [
+      "Marketing",
+      "Sales",
+      "Deployment",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 74,
+    "question": "[Data_Science Easy] What library is used for Big Data?",
+    "options": [
+      "Pandas",
+      "Spring",
+      "Hibernate",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 75,
+    "question": "[Data_Science Easy] Step one in Data Analysis is?",
+    "options": [
+      "Marketing",
+      "Deployment",
+      "Data Cleaning",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 76,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "React",
+      "Hibernate",
+      "Spring",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 77,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "Hibernate",
+      "React",
+      "Spring",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 78,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "Hibernate",
+      "Pandas",
+      "Spring",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 79,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Marketing",
+      "Deployment",
+      "Sales",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 80,
+    "question": "[Data_Science Easy] Step one in Statistics is?",
+    "options": [
+      "Sales",
+      "Deployment",
+      "Marketing",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 81,
+    "question": "[Data_Science Easy] What library is used for Big Data?",
+    "options": [
+      "Hibernate",
+      "React",
+      "Spring",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 82,
+    "question": "[Data_Science Easy] Step one in Visualization is?",
+    "options": [
+      "Deployment",
+      "Marketing",
+      "Data Cleaning",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 83,
+    "question": "[Data_Science Easy] Step one in Data Analysis is?",
+    "options": [
+      "Deployment",
+      "Sales",
+      "Data Cleaning",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 84,
+    "question": "[Data_Science Easy] Step one in Statistics is?",
+    "options": [
+      "Data Cleaning",
+      "Sales",
+      "Deployment",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 85,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Deployment",
+      "Sales",
+      "Marketing",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 86,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Marketing",
+      "Deployment",
+      "Data Cleaning",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 87,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Sales",
+      "Deployment",
+      "Data Cleaning",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 88,
+    "question": "[Data_Science Easy] What library is used for Big Data?",
+    "options": [
+      "Hibernate",
+      "Pandas",
+      "React",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 89,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "Pandas",
+      "React",
+      "Spring",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 90,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Sales",
+      "Marketing",
+      "Deployment",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 91,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "Hibernate",
+      "Spring",
+      "Pandas",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 92,
+    "question": "[Data_Science Easy] Step one in Statistics is?",
+    "options": [
+      "Data Cleaning",
+      "Marketing",
+      "Deployment",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 93,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Data Cleaning",
+      "Deployment",
+      "Marketing",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 94,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Sales",
+      "Data Cleaning",
+      "Marketing",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 95,
+    "question": "[Data_Science Easy] What library is used for Big Data?",
+    "options": [
+      "React",
+      "Spring",
+      "Pandas",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 96,
+    "question": "[Data_Science Easy] Step one in Data Analysis is?",
+    "options": [
+      "Data Cleaning",
+      "Deployment",
+      "Sales",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 97,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Sales",
+      "Marketing",
+      "Data Cleaning",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 98,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "React",
+      "Hibernate",
+      "Pandas",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 99,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "React",
+      "Spring",
+      "Hibernate",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 100,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Sales",
+      "Deployment",
+      "Data Cleaning",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 101,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "React",
+      "Hibernate",
+      "Pandas",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 102,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "Spring",
+      "React",
+      "Pandas",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 103,
+    "question": "[Data_Science Easy] Step one in Statistics is?",
+    "options": [
+      "Data Cleaning",
+      "Sales",
+      "Marketing",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 104,
+    "question": "[Data_Science Easy] What library is used for Big Data?",
+    "options": [
+      "React",
+      "Pandas",
+      "Hibernate",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 105,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Data Cleaning",
+      "Sales",
+      "Marketing",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 106,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Deployment",
+      "Marketing",
+      "Data Cleaning",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 107,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Sales",
+      "Data Cleaning",
+      "Marketing",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 108,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "Spring",
+      "Pandas",
+      "Hibernate",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 109,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "Pandas",
+      "Hibernate",
+      "Spring",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 110,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Marketing",
+      "Deployment",
+      "Sales",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 111,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "Hibernate",
+      "React",
+      "Pandas",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 112,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "Hibernate",
+      "Pandas",
+      "React",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 113,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Deployment",
+      "Data Cleaning",
+      "Sales",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 114,
+    "question": "[Data_Science Easy] Step one in Statistics is?",
+    "options": [
+      "Marketing",
+      "Deployment",
+      "Sales",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 115,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Sales",
+      "Data Cleaning",
+      "Marketing",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 116,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "Pandas",
+      "React",
+      "Spring",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 117,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Marketing",
+      "Data Cleaning",
+      "Deployment",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 118,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Deployment",
+      "Marketing",
+      "Data Cleaning",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 119,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Sales",
+      "Marketing",
+      "Data Cleaning",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 120,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "Pandas",
+      "Spring",
+      "React",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 121,
+    "question": "[Data_Science Easy] Step one in Visualization is?",
+    "options": [
+      "Marketing",
+      "Sales",
+      "Data Cleaning",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 122,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Sales",
+      "Data Cleaning",
+      "Marketing",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 123,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "React",
+      "Spring",
+      "Hibernate",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 124,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "Spring",
+      "Hibernate",
+      "Pandas",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 125,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Sales",
+      "Marketing",
+      "Deployment",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 126,
+    "question": "[Data_Science Easy] What library is used for Visualization?",
+    "options": [
+      "Hibernate",
+      "Pandas",
+      "Spring",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 127,
+    "question": "[Data_Science Easy] Step one in Data Analysis is?",
+    "options": [
+      "Marketing",
+      "Data Cleaning",
+      "Deployment",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 128,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "React",
+      "Pandas",
+      "Hibernate",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 129,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "Hibernate",
+      "React",
+      "Pandas",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 130,
+    "question": "[Data_Science Easy] What library is used for Big Data?",
+    "options": [
+      "Spring",
+      "Pandas",
+      "React",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 131,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Sales",
+      "Data Cleaning",
+      "Deployment",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 132,
+    "question": "[Data_Science Easy] Step one in Visualization is?",
+    "options": [
+      "Data Cleaning",
+      "Sales",
+      "Deployment",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 133,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Deployment",
+      "Data Cleaning",
+      "Marketing",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 134,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Marketing",
+      "Data Cleaning",
+      "Deployment",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 135,
+    "question": "[Data_Science Easy] Step one in Statistics is?",
+    "options": [
+      "Marketing",
+      "Deployment",
+      "Data Cleaning",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 136,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "React",
+      "Spring",
+      "Pandas",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 137,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Sales",
+      "Data Cleaning",
+      "Marketing",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 138,
+    "question": "[Data_Science Easy] Step one in Data Analysis is?",
+    "options": [
+      "Marketing",
+      "Sales",
+      "Data Cleaning",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 139,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "Hibernate",
+      "Spring",
+      "React",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 140,
+    "question": "[Data_Science Easy] Step one in Machine Learning is?",
+    "options": [
+      "Marketing",
+      "Deployment",
+      "Sales",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 141,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "React",
+      "Pandas",
+      "Hibernate",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 142,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "Hibernate",
+      "React",
+      "Pandas",
+      "Spring"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 143,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Marketing",
+      "Data Cleaning",
+      "Deployment",
+      "Sales"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 144,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Marketing",
+      "Deployment",
+      "Sales",
+      "Data Cleaning"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 145,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "React",
+      "Spring",
+      "Pandas",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 146,
+    "question": "[Data_Science Easy] What library is used for Statistics?",
+    "options": [
+      "Spring",
+      "Pandas",
+      "Hibernate",
+      "React"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 147,
+    "question": "[Data_Science Easy] Step one in Statistics is?",
+    "options": [
+      "Data Cleaning",
+      "Deployment",
+      "Sales",
+      "Marketing"
+    ],
+    "answer": "Data Cleaning"
+  },
+  {
+    "id": 148,
+    "question": "[Data_Science Easy] What library is used for Machine Learning?",
+    "options": [
+      "React",
+      "Pandas",
+      "Spring",
+      "Hibernate"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 149,
+    "question": "[Data_Science Easy] What library is used for Data Analysis?",
+    "options": [
+      "React",
+      "Hibernate",
+      "Spring",
+      "Pandas"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "id": 150,
+    "question": "[Data_Science Easy] Step one in Big Data is?",
+    "options": [
+      "Marketing",
+      "Data Cleaning",
+      "Sales",
+      "Deployment"
+    ],
+    "answer": "Data Cleaning"
+  }
+]
