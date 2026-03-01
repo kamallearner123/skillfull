@@ -38,6 +38,8 @@ LOCAL_APPS = [
     'apps.blog',
     'apps.notifications',
     'apps.calendar',
+    'apps.smartguide_proxy',
+    'apps.ai_assistant',
 ]
 
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
@@ -147,12 +149,15 @@ LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
 
 # CORS
-# CORS
-CORS_ALLOW_ALL_ORIGINS = True # For dev, restrict in prod
+CORS_ALLOW_ALL_ORIGINS = True  # For dev; restrict in prod
 CORS_ALLOW_CREDENTIALS = True
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
+    "http://localhost:5174",
+    "http://127.0.0.1:5174",
+    "http://localhost:5175",
+    "http://127.0.0.1:5175",
     "http://localhost:3000",
     "http://127.0.0.1:3000",
 ]

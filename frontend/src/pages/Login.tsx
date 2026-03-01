@@ -1,48 +1,43 @@
 import { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { Navigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import type { UserRole } from '../context/AuthContext';
 import { GraduationCap, Loader2, Eye, EyeOff } from 'lucide-react';
 
 export default function Login() {
-    const { login, isAuthenticated } = useAuth();
-    const navigate = useNavigate();
-    const [isLoading, setIsLoading] = useState(false);
+    const { login, isAuthenticated, isLoading, user } = useAuth();
+    const [isSubmitting, setIsSubmitting] = useState(false);
     const [selectedRole, setSelectedRole] = useState<UserRole>('STUDENT');
+    const [email, setEmail] = useState('');
+    const [password, setPassword] = useState('');
     const [showPassword, setShowPassword] = useState(false);
 
-    // Redirect if already logged in
-    if (isAuthenticated) {
-        // Simple redirect based on role (mock logic for now)
-        navigate('/student/dashboard'); // Default to student dashboard for now or check user role
+    const roleRedirect = (role: string) => {
+        if (role === 'MENTOR') return '/mentor/dashboard';
+        if (role === 'DEPT_ADMIN' || role === 'PRINCIPAL' || role === 'SUPER_ADMIN') return '/admin/dashboard';
+        return '/student/dashboard';
+    };
+
+    // Show loading while AuthContext is checking session
+    if (isLoading) return null;
+
+    // Already authenticated — redirect to the right dashboard
+    if (isAuthenticated && user) {
+        return <Navigate to={roleRedirect(user.role)} replace />;
     }
 
     const handleLogin = async (e: React.FormEvent) => {
         e.preventDefault();
-        setIsLoading(true);
+        setIsSubmitting(true);
         try {
-            // Simulate API call
-            await new Promise(resolve => setTimeout(resolve, 1000));
-            login(selectedRole);
-
-            // Redirect based on role
-            switch (selectedRole) {
-                case 'STUDENT':
-                    navigate('/student/dashboard');
-                    break;
-                case 'MENTOR':
-                    navigate('/mentor/dashboard');
-                    break;
-                case 'DEPT_ADMIN':
-                    navigate('/admin/dashboard');
-                    break;
-                default:
-                    navigate('/student/dashboard');
-            }
+            await login(email, password, selectedRole);
+            // Since we use await login, if it succeeds, the user will be set in AuthContext
+            // and the component will re-render and hit the Navigate above.
         } catch (error) {
             console.error('Login failed', error);
+            alert('Login failed. Please check your credentials.');
         } finally {
-            setIsLoading(false);
+            setIsSubmitting(false);
         }
     };
 
@@ -60,7 +55,7 @@ export default function Login() {
                 <form onSubmit={handleLogin} className="space-y-6">
                     <div>
                         <label className="block text-sm font-medium text-slate-700 mb-2">
-                            Select Role (Demo)
+                            Quick Select (Demo)
                         </label>
                         <select
                             value={selectedRole}
@@ -79,8 +74,11 @@ export default function Login() {
                         </label>
                         <input
                             type="email"
+                            value={email}
+                            onChange={(e) => setEmail(e.target.value)}
                             className="w-full px-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all"
                             placeholder="Enter your email"
+                            required
                         />
                     </div>
 
@@ -91,8 +89,11 @@ export default function Login() {
                         <div className="relative">
                             <input
                                 type={showPassword ? "text" : "password"}
+                                value={password}
+                                onChange={(e) => setPassword(e.target.value)}
                                 className="w-full px-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all pr-10"
                                 placeholder="Enter your password"
+                                required
                             />
                             <button
                                 type="button"
@@ -110,10 +111,10 @@ export default function Login() {
 
                     <button
                         type="submit"
-                        disabled={isLoading}
+                        disabled={isSubmitting}
                         className="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2.5 rounded-lg transition-colors flex items-center justify-center gap-2"
                     >
-                        {isLoading ? (
+                        {isSubmitting ? (
                             <>
                                 <Loader2 className="h-5 w-5 animate-spin" />
                                 Signing in...

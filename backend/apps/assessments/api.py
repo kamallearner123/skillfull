@@ -3,8 +3,11 @@ from typing import List, Optional
 from django.shortcuts import get_object_or_404
 from apps.assessments.models import AssessmentAttempt, AssessmentQuestion, Question, Subject
 from ninja.security import django_auth
+import logging
 import uuid
 import random
+
+logger = logging.getLogger(__name__)
 
 router = Router()
 
@@ -38,6 +41,33 @@ class AssessmentResultSchema(Schema):
     total: int
     percentage: float
     feedback: str
+
+class ReadinessDomainScoreSchema(Schema):
+    domain: str
+    count: int
+    avg_percentage: float
+
+class OverallReadinessSchema(Schema):
+    overall_score: float
+    assessments_analyzed: int
+    readiness_report: str
+    key_recommendations: List[str] = []
+    domain_performance: List[ReadinessDomainScoreSchema] = []
+    service_ready: float = 0.0
+    product_ready: float = 0.0
+    faang_ready: float = 0.0
+    error: Optional[str] = None
+
+class ReadinessHistoryPoint(Schema):
+    date: str
+    score: float
+    domain: str
+
+class LatestAssessmentSchema(Schema):
+    domain: Optional[str] = None
+    attempt_no: int = 0
+    date: Optional[str] = None
+    report_generated_on: Optional[str] = None
 
 class StatsSchema(Schema):
     total_finished: int
@@ -129,6 +159,7 @@ def list_domains(request):
 @router.post("/start", response=AssessmentResponseSchema, auth=django_auth)
 def start_assessment(request, data: AssessmentStartSchema):
     domain = data.domain
+    logger.info(f"User {request.user.email} starting assessment for domain: {domain}")
     rules = DOMAIN_RULES.get(domain, [])
     
     # If no rules found, maybe default to random mix? 
@@ -143,6 +174,7 @@ def start_assessment(request, data: AssessmentStartSchema):
 
     for subj_name, difficulty, count in rules:
         qs = Question.objects.filter(subject__name=subj_name, difficulty=difficulty).exclude(id__in=seen_ids).order_by('?')[:count]
+        logger.debug(f"Selected {qs.count()} {difficulty} questions for {subj_name}")
         for q in qs:
             selected_questions.append(q)
             seen_ids.add(q.id)
@@ -176,6 +208,7 @@ def start_assessment(request, data: AssessmentStartSchema):
     aq_list = [AssessmentQuestion(attempt=attempt, question=q) for q in selected_questions]
     AssessmentQuestion.objects.bulk_create(aq_list)
 
+    logger.info(f"Assessment {attempt.id} created with {len(selected_questions)} questions")
     return {
         "attempt_id": attempt.id,
         "questions": selected_questions,
@@ -184,9 +217,11 @@ def start_assessment(request, data: AssessmentStartSchema):
 
 @router.post("/submit", response=AssessmentResultSchema, auth=django_auth)
 def submit_assessment(request, data: AssessmentSubmissionSchema):
+    logger.info(f"Submitting assessment {data.attempt_id} for user {request.user.email}")
     attempt = get_object_or_404(AssessmentAttempt, id=data.attempt_id, user=request.user)
     
     if attempt.completed_at:
+        logger.warning(f"Attempt to resubmit already completed assessment: {data.attempt_id}")
         return 400, {"message": "Assessment already submitted"}
 
     score = 0
@@ -360,6 +395,7 @@ def get_assessment_report(request, attempt_id: uuid.UUID):
             "is_correct": aq.is_correct
         })
 
+
     return {
         "attempt_id": attempt.id,
         "domain": attempt.domain,
@@ -370,3 +406,254 @@ def get_assessment_report(request, attempt_id: uuid.UUID):
         "feedback": feedback,
         "questions": questions_data
     }
+
+
+class AIFeedbackSchema(Schema):
+    overall_summary: str = ""
+    strengths: List[str] = []
+    improvement_areas: List[str] = []
+    priority_topics: List[str] = []
+    suggested_resources: List[dict] = []
+    motivational_note: str = ""
+    prep_plan: List[dict] = []
+    error: Optional[str] = None
+
+
+@router.get("/{attempt_id}/ai-feedback", response=AIFeedbackSchema, auth=django_auth)
+def get_ai_feedback(request, attempt_id: uuid.UUID):
+    """Proxy to SmartGuide /feedback — sends complete per-question Q&A data."""
+    import httpx
+    import os as _os
+
+    attempt = get_object_or_404(AssessmentAttempt, id=attempt_id, user=request.user)
+
+    if not attempt.completed_at:
+        return 400, {"error": "Assessment not completed yet."}
+
+    aqs = (
+        AssessmentQuestion.objects
+        .filter(attempt=attempt)
+        .select_related("question__subject")
+        .order_by("id")
+    )
+
+    wrong_answers = []
+    correct_answers = []
+    weak_subjects: set = set()
+    strong_subjects: set = set()
+
+    for aq in aqs:
+        q = aq.question
+        try:
+            subj_name = q.subject.name if q.subject_id else None
+        except Exception:
+            subj_name = None
+
+        detail = {
+            "question": q.text or "",
+            "options": q.options if isinstance(q.options, list) else [],
+            "user_answer": aq.user_answer,
+            "correct_answer": q.correct_answer or "",
+            "is_correct": bool(aq.is_correct),
+            "subject": subj_name,
+            "difficulty": q.difficulty if hasattr(q, "difficulty") else None,
+        }
+
+        if aq.is_correct:
+            correct_answers.append(detail)
+            if subj_name:
+                strong_subjects.add(subj_name)
+        else:
+            wrong_answers.append(detail)
+            if subj_name:
+                weak_subjects.add(subj_name)
+
+    weak_topics = list(weak_subjects)
+    strong_topics = list(strong_subjects - weak_subjects)
+
+    smartguide_url = _os.environ.get("SMARTGUIDE_URL", "http://localhost:8080")
+    student_name = request.user.get_full_name() or request.user.username
+    percentage = (attempt.score / attempt.total_questions * 100) if attempt.total_questions else 0
+
+    payload = {
+        "attempt_id": str(attempt.id),
+        "student_name": student_name,
+        "domain": attempt.domain,
+        "score": attempt.score,
+        "total": attempt.total_questions,
+        "percentage": round(percentage, 1),
+        "weak_topics": weak_topics,
+        "strong_topics": strong_topics,
+        "wrong_answers": wrong_answers,
+        "correct_answers": correct_answers,
+    }
+
+    try:
+        response = httpx.post(
+            f"{smartguide_url}/feedback",
+            json=payload,
+            timeout=60.0,
+        )
+        response.raise_for_status()
+        data = response.json()
+        return {
+            "overall_summary": data.get("overall_summary", ""),
+            "strengths": data.get("strengths", []),
+            "improvement_areas": data.get("improvement_areas", []),
+            "priority_topics": data.get("priority_topics", []),
+            "suggested_resources": data.get("suggested_resources", []),
+            "motivational_note": data.get("motivational_note", ""),
+            "prep_plan": data.get("prep_plan", []),
+            "error": None,
+        }
+    except Exception as exc:
+        return {
+            "overall_summary": "",
+            "strengths": [],
+            "improvement_areas": [],
+            "priority_topics": [],
+            "suggested_resources": [],
+            "motivational_note": "",
+            "error": f"SmartGuide unavailable: {str(exc)}",
+        }
+
+@router.get("/latest-summary", response=LatestAssessmentSchema, auth=django_auth)
+def get_latest_summary(request):
+    attempts = AssessmentAttempt.objects.filter(user=request.user, completed_at__isnull=False).order_by('-completed_at')
+    latest = attempts.first()
+    count = attempts.count()
+    
+    if not latest:
+        return {
+            "domain": "N/A",
+            "attempt_no": 0,
+            "date": "N/A",
+            "report_generated_on": "N/A"
+        }
+    
+    return {
+        "domain": latest.domain,
+        "attempt_no": count,
+        "date": latest.started_at.strftime('%Y-%m-%d'),
+        "report_generated_on": latest.completed_at.strftime('%Y-%m-%d %H:%M')
+    }
+
+@router.get("/overall-readiness", response=OverallReadinessSchema, auth=django_auth)
+def get_overall_readiness(request):
+    """Consolidate all assessment results and get a holistic readiness report from SmartGuide."""
+    import httpx
+    import os as _os
+    from django.db.models import Avg, Count
+    
+    attempts = AssessmentAttempt.objects.filter(user=request.user, completed_at__isnull=False)
+    
+    if not attempts.exists():
+        return {
+            "overall_score": 0.0,
+            "assessments_analyzed": 0,
+            "readiness_report": "You haven't completed any assessments yet. Take a few tests to see your overall readiness!",
+            "key_recommendations": ["Start your first assessment in any domain."],
+            "domain_performance": []
+        }
+    
+    # Calculate domain performance
+    domain_stats = (
+        attempts.values('domain')
+        .annotate(
+            avg_percentage=Avg('score') * 100.0 / Avg('total_questions'),
+            count=Count('id')
+        )
+        .order_by('-avg_percentage')
+    )
+    
+    domain_performance = [
+        ReadinessDomainScoreSchema(
+            domain=d['domain'],
+            count=d['count'],
+            avg_percentage=round(d['avg_percentage'], 1)
+        ) for d in domain_stats
+    ]
+    
+    total_percentage = sum(d.avg_percentage for d in domain_performance) / len(domain_performance)
+    
+    # Calculate Company Specific Readiness (Heuristics)
+    # Service: Generalist (often slightly higher than raw avg as requirements are broad)
+    service_ready = min(100.0, total_percentage * 1.1) 
+    
+    # Product: Higher bar on Core CS / Specialized skills
+    # We factor it down to represent the difficulty jump
+    product_ready = total_percentage * 0.85 
+    
+    # FAANG: Extreme bar on DSA and scalability
+    faang_ready = total_percentage * 0.65
+    
+    # Prepare payload for SmartGuide
+    smartguide_url = _os.environ.get("SMARTGUIDE_URL", "http://localhost:8080")
+    student_name = request.user.get_full_name() or request.user.username
+    
+    payload = {
+        "student_name": student_name,
+        "total_assessments": attempts.count(),
+        "overall_average": round(total_percentage, 1),
+        "domain_breakdown": [d.dict() for d in domain_performance],
+        "request_type": "overall_readiness"
+    }
+    
+    try:
+        response = httpx.post(
+            f"{smartguide_url}/readiness",
+            json=payload,
+            timeout=60.0,
+        )
+        response.raise_for_status()
+        data = response.json()
+        
+        return {
+            "overall_score": round(total_percentage, 1),
+            "assessments_analyzed": attempts.count(),
+            "readiness_report": data.get("overall_summary", "Analysis complete."),
+            "key_recommendations": data.get("priority_topics", []),
+            "domain_performance": domain_performance,
+            "service_ready": round(service_ready, 1),
+            "product_ready": round(product_ready, 1),
+            "faang_ready": round(faang_ready, 1)
+        }
+    except Exception as exc:
+        return {
+            "overall_score": round(total_percentage, 1),
+            "assessments_analyzed": attempts.count(),
+            "readiness_report": "SmartGuide analysis is currently unavailable, but here is your basic breakdown.",
+            "key_recommendations": ["Try again later for AI-powered suggestions."],
+            "domain_performance": domain_performance,
+            "service_ready": round(service_ready, 1),
+            "product_ready": round(product_ready, 1),
+            "faang_ready": round(faang_ready, 1),
+            "error": str(exc)
+        }
+
+@router.get("/readiness-history", response=List[ReadinessHistoryPoint], auth=django_auth)
+def get_readiness_history(request):
+    """Returns a time-series of readiness score progression."""
+    attempts = AssessmentAttempt.objects.filter(user=request.user, completed_at__isnull=False).order_by('completed_at')
+    
+    history = []
+    domain_best_scores = {}
+    
+    for attempt in attempts:
+        percentage = (attempt.score / attempt.total_questions * 100) if attempt.total_questions > 0 else 0
+        
+        # Update best score for this domain
+        current_best = domain_best_scores.get(attempt.domain, 0)
+        if percentage > current_best:
+            domain_best_scores[attempt.domain] = percentage
+            
+        # Cumulative readiness: average of current best scores across all unique domains tested so far
+        avg_readiness = sum(domain_best_scores.values()) / len(domain_best_scores)
+        
+        history.append({
+            "date": attempt.completed_at.strftime('%Y-%m-%d'),
+            "score": round(avg_readiness, 1),
+            "domain": attempt.domain
+        })
+        
+    return history

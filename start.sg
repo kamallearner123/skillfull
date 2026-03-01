@@ -1,0 +1,59 @@
+#!/bin/bash
+
+# Default log level
+LOG_VAL="INFO"
+
+# Parse arguments
+for i in "$@"
+do
+case $i in
+    --log=1)
+    LOG_VAL="INFO"
+    shift
+    ;;
+    --log=2)
+    LOG_VAL="DEBUG"
+    shift
+    ;;
+    --log=3)
+    LOG_VAL="ERROR"
+    shift
+    ;;
+    *)
+    # unknown option
+    ;;
+esac
+done
+
+echo "🚀 Starting components with LOG_LEVEL=$LOG_VAL"
+
+# Export for Backend and SmartGuide
+export LOG_LEVEL=$LOG_VAL
+# Export for Frontend (Vite)
+export VITE_LOG_LEVEL=$LOG_VAL
+
+# Function to kill all background processes on exit
+cleanup() {
+    echo "Stopping all services..."
+    kill $(jobs -p)
+    exit
+}
+
+trap cleanup SIGINT SIGTERM
+
+# Start Backend
+echo "Starting Backend..."
+cd backend && source venv/bin/activate && python manage.py runserver 0.0.0.0:8000 &
+BACKEND_PID=$!
+
+# Start SmartGuide
+echo "Starting SmartGuide..."
+cd smartguide && source venv/bin/activate && uvicorn app.main:app --host 0.0.0.0 --port 8080 &
+SMARTGUIDE_PID=$!
+
+# Start Frontend
+echo "Starting Frontend..."
+cd frontend && npm run dev &
+FRONTEND_PID=$!
+
+wait

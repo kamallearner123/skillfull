@@ -1,0 +1,48 @@
+services:
+
+  # ── Redis (conversation memory) ───────────────────────────────────────────
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    ports:
+      - "6380:6379"
+    volumes:
+      - smartguide_redis_data:/data
+
+  # ── SmartGuide FastAPI service ────────────────────────────────────────────
+  smartguide:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    environment:
+      - REDIS_URL=redis://redis:6379/1
+      - VLLM_USE_TRITON_FLASH_ATTN=0
+      - VLLM_DISABLE_FLASH_ATTN=1
+      - VLLM_ATTENTION_BACKEND=XFORMERS # xformers is often more stable on Turing
+      - VLLM_NO_USAGE_STATS=1
+      - VLLM_USE_V1=0
+      - VLLM_DISABLE_CUSTOM_ALL_REDUCE=1
+      - VLLM_WORKER_MULTIPROC_METHOD=spawn
+    volumes:
+      - ./app:/app/app
+      - ./models:/app/models
+      - smartguide_chroma_data:/app/chroma_db
+      - ./knowledge:/app/knowledge # mount local knowledge files
+    depends_on:
+      - redis
+    # GPU reservation is OPTIONAL — comment out if no NVIDIA GPU is available.
+    # To enable GPU: install nvidia-container-toolkit and uncomment below.
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [ gpu ]
+
+volumes:
+  smartguide_redis_data:
+  smartguide_chroma_data:

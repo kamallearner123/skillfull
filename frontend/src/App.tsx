@@ -9,8 +9,10 @@ import Unauthorized from './pages/Unauthorized';
 import StudentDashboard from './pages/student/StudentDashboard';
 import ModulesList from './pages/student/ModulesList';
 import SelfAssessment from './pages/student/SelfAssessment';
+import SmartGuide from './pages/student/SmartGuide';
 import JobsList from './pages/student/JobsList';
 import EventsList from './pages/student/EventsList';
+import AIAssistant from './pages/AIAssistant';
 import MentorDashboard from './pages/mentor/MentorDashboard';
 import StudentsList from './pages/mentor/StudentsList';
 import AdminDashboard from './pages/admin/AdminDashboard';
@@ -37,6 +39,8 @@ function App() {
                     <Route path="assessment" element={<SelfAssessment />} />
                     <Route path="jobs" element={<JobsList />} />
                     <Route path="events" element={<EventsList />} />
+                    <Route path="smartguide" element={<SmartGuide />} />
+                    <Route path="ai-assistant" element={<AIAssistant />} />
                   </Routes>
                 </DashboardLayout>
               </ProtectedRoute>

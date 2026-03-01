@@ -34,6 +34,8 @@ if not os.environ.get('REDIS_HOST'):
         }
     }
 # Logging Configuration
+LOG_LEVEL = os.environ.get('LOG_LEVEL', 'INFO').upper()
+
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
@@ -45,13 +47,13 @@ LOGGING = {
     },
     'formatters': {
         'simple': {
-            'format': '[%(asctime)s] %(levelname)s %(message)s',
+            'format': '[%(asctime)s] %(levelname)s [%(name)s] %(message)s',
             'datefmt': '%Y-%m-%d %H:%M:%S',
         },
     },
     'root': {
         'handlers': ['console'],
-        'level': 'INFO',
+        'level': LOG_LEVEL,
     },
     'loggers': {
         'django': {
@@ -59,10 +61,10 @@ LOGGING = {
             'level': 'INFO',
             'propagate': False,
         },
-        'apps.users': {  # Specific logger for users app
+        'apps': {
             'handlers': ['console'],
-            'level': 'DEBUG',
-            'propagate': True,
+            'level': LOG_LEVEL,
+            'propagate': False,
         },
     },
 }

@@ -1,0 +1,17 @@
+Apache Kafka is a distributed event streaming platform. Producers publish messages to topics. Consumers subscribe to topics and process records in real time. Kafka stores records durably on disk and supports high-throughput, fault-tolerant streaming.
+
+Apache Spark is an open-source, distributed computing system used for big data processing and analytics. Its key abstraction is the DataFrame. Spark supports batch processing, streaming (Structured Streaming), and machine learning (MLlib).
+
+ETL stands for Extract, Transform, Load. ETL pipelines move data from source systems (databases, APIs, files) into a centralised data warehouse. The transform step includes cleaning, filtering, aggregating, and enriching data.
+
+A data warehouse is an analytical database optimised for read-heavy queries. It stores historical data in a structured format. Common warehouses: Amazon Redshift, Google BigQuery, Snowflake.
+
+The CAP theorem states that a distributed system can only guarantee two of three properties: Consistency, Availability, and Partition Tolerance. Most NoSQL databases (Cassandra, DynamoDB) prioritise Availability and Partition Tolerance (AP), while relational databases prioritise Consistency and Partition Tolerance (CP).
+
+SQL window functions perform calculations across rows related to the current row without collapsing them into a group. Common examples: ROW_NUMBER(), RANK(), DENSE_RANK(), LAG(), LEAD(), SUM() OVER(), AVG() OVER().
+
+Data partitioning divides a large dataset into smaller, more manageable parts stored across nodes. Horizontal partitioning (sharding) splits rows. Vertical partitioning splits columns. Partitioning improves query performance and scalability.
+
+Apache Airflow is a workflow orchestration platform for scheduling and monitoring data pipelines as Directed Acyclic Graphs (DAGs). Each node in the DAG is a task; dependencies between tasks define the execution order.
+
+A data lakehouse combines the low-cost storage of a data lake with the schema enforcement and ACID transactions of a data warehouse. Formats like Delta Lake, Apache Iceberg, and Apache Hudi provide these capabilities on top of object storage.

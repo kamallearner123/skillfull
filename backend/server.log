@@ -1,0 +1,211 @@
+[2026-03-01 17:36:15] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (account.W001) ACCOUNT_LOGIN_METHODS conflicts with ACCOUNT_SIGNUP_FIELDS
+
+System check identified 1 issue (0 silenced).
+[2026-03-01 17:36:15] INFO [daphne.server] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+[2026-03-01 17:36:15] INFO [daphne.server] Configuring endpoint tcp:port=8000:interface=0.0.0.0
+[2026-03-01 17:36:15] INFO [daphne.server] Listening on TCP address 0.0.0.0:8000
+[2026-03-01 17:36:28] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:36:28] INFO [config.middleware] Request: POST /api/users/login
+[2026-03-01 17:36:28] INFO [apps.users.api] Login attempt for identifier: student@example.com
+[2026-03-01 17:36:28] INFO [apps.users.api] Login attempt for identifier: student@example.com
+[2026-03-01 17:36:28] INFO [apps.users.api] Checking authenticate for identifier: student@example.com
+[2026-03-01 17:36:28] INFO [apps.users.api] Checking authenticate for identifier: student@example.com
+[2026-03-01 17:36:28] INFO [apps.users.api] Login successful for user: student (student@example.com)
+[2026-03-01 17:36:28] INFO [apps.users.api] Login successful for user: student (student@example.com)
+[2026-03-01 17:36:28] INFO [config.middleware] Response: 200 (took 0.47s)
+[2026-03-01 17:36:28] INFO [django.channels.server] HTTP POST /api/users/login 200 [0.47, 127.0.0.1:45544]
+[2026-03-01 17:36:33] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:36:33] INFO [config.middleware] Request: POST /api/users/logout
+[2026-03-01 17:36:33] INFO [apps.users.api] User logged out: student
+[2026-03-01 17:36:33] INFO [apps.users.api] User logged out: student
+[2026-03-01 17:36:33] INFO [config.middleware] Response: 200 (took 0.01s)
+[2026-03-01 17:36:33] INFO [django.channels.server] HTTP POST /api/users/logout 200 [0.01, 127.0.0.1:35358]
+[2026-03-01 17:36:40] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:36:40] INFO [config.middleware] Request: POST /api/users/login
+[2026-03-01 17:36:40] INFO [apps.users.api] Login attempt for identifier: anil@example.com
+[2026-03-01 17:36:40] INFO [apps.users.api] Login attempt for identifier: anil@example.com
+[2026-03-01 17:36:40] INFO [apps.users.api] Checking authenticate for identifier: anil@example.com
+[2026-03-01 17:36:40] INFO [apps.users.api] Checking authenticate for identifier: anil@example.com
+[2026-03-01 17:36:40] WARNING [apps.users.api] Login failed for identifier: anil@example.com
+[2026-03-01 17:36:40] WARNING [apps.users.api] Login failed for identifier: anil@example.com
+[2026-03-01 17:36:40] INFO [config.middleware] Response: 401 (took 0.55s)
+[2026-03-01 17:36:40] WARNING [django.request] Unauthorized: /api/users/login
+[2026-03-01 17:36:40] WARNING [django.channels.server] HTTP POST /api/users/login 401 [0.55, 127.0.0.1:35370]
+[2026-03-01 17:36:48] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:36:48] INFO [config.middleware] Request: POST /api/users/login
+[2026-03-01 17:36:48] INFO [apps.users.api] Login attempt for identifier: anil@example.com
+[2026-03-01 17:36:48] INFO [apps.users.api] Login attempt for identifier: anil@example.com
+[2026-03-01 17:36:48] INFO [apps.users.api] Checking authenticate for identifier: anil@example.com
+[2026-03-01 17:36:48] INFO [apps.users.api] Checking authenticate for identifier: anil@example.com
+[2026-03-01 17:36:49] WARNING [apps.users.api] Login failed for identifier: anil@example.com
+[2026-03-01 17:36:49] WARNING [apps.users.api] Login failed for identifier: anil@example.com
+[2026-03-01 17:36:49] INFO [config.middleware] Response: 401 (took 0.53s)
+[2026-03-01 17:36:49] WARNING [django.request] Unauthorized: /api/users/login
+[2026-03-01 17:36:49] WARNING [django.channels.server] HTTP POST /api/users/login 401 [0.54, 127.0.0.1:50990]
+[2026-03-01 17:36:50] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:36:50] INFO [config.middleware] Request: POST /api/users/login
+[2026-03-01 17:36:50] INFO [apps.users.api] Login attempt for identifier: anil@example.com
+[2026-03-01 17:36:50] INFO [apps.users.api] Login attempt for identifier: anil@example.com
+[2026-03-01 17:36:50] INFO [apps.users.api] Checking authenticate for identifier: anil@example.com
+[2026-03-01 17:36:50] INFO [apps.users.api] Checking authenticate for identifier: anil@example.com
+[2026-03-01 17:36:51] WARNING [apps.users.api] Login failed for identifier: anil@example.com
+[2026-03-01 17:36:51] WARNING [apps.users.api] Login failed for identifier: anil@example.com
+[2026-03-01 17:36:51] INFO [config.middleware] Response: 401 (took 0.62s)
+[2026-03-01 17:36:51] WARNING [django.request] Unauthorized: /api/users/login
+[2026-03-01 17:36:51] WARNING [django.channels.server] HTTP POST /api/users/login 401 [0.63, 127.0.0.1:50996]
+[2026-03-01 17:36:51] INFO [django.utils.autoreload] /home/kamal/Documents/CareerBrook/Placementor/skillfull/backend/config/settings/local.py changed, reloading.
+Performing system checks...
+
+March 01, 2026 - 17:36:15
+Django version 5.1.15, using settings 'config.settings.local'
+Starting ASGI/Daphne version 4.2.1 development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[2026-03-01 17:36:52] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (account.W001) ACCOUNT_LOGIN_METHODS conflicts with ACCOUNT_SIGNUP_FIELDS
+
+System check identified 1 issue (0 silenced).
+[2026-03-01 17:36:52] INFO [daphne.server] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+[2026-03-01 17:36:52] INFO [daphne.server] Configuring endpoint tcp:port=8000:interface=0.0.0.0
+[2026-03-01 17:36:52] INFO [daphne.server] Listening on TCP address 0.0.0.0:8000
+[2026-03-01 17:37:03] INFO [django.utils.autoreload] /home/kamal/Documents/CareerBrook/Placementor/skillfull/backend/apps/users/models.py changed, reloading.
+Performing system checks...
+
+March 01, 2026 - 17:36:52
+Django version 5.1.15, using settings 'config.settings.local'
+Starting ASGI/Daphne version 4.2.1 development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[2026-03-01 17:37:04] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (account.W001) ACCOUNT_LOGIN_METHODS conflicts with ACCOUNT_SIGNUP_FIELDS
+
+System check identified 1 issue (0 silenced).
+[2026-03-01 17:37:04] INFO [daphne.server] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+[2026-03-01 17:37:04] INFO [daphne.server] Configuring endpoint tcp:port=8000:interface=0.0.0.0
+[2026-03-01 17:37:04] INFO [daphne.server] Listening on TCP address 0.0.0.0:8000
+[2026-03-01 17:37:13] INFO [django.utils.autoreload] /home/kamal/Documents/CareerBrook/Placementor/skillfull/backend/apps/users/api.py changed, reloading.
+Performing system checks...
+
+March 01, 2026 - 17:37:04
+Django version 5.1.15, using settings 'config.settings.local'
+Starting ASGI/Daphne version 4.2.1 development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[2026-03-01 17:37:14] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (account.W001) ACCOUNT_LOGIN_METHODS conflicts with ACCOUNT_SIGNUP_FIELDS
+
+System check identified 1 issue (0 silenced).
+[2026-03-01 17:37:14] INFO [daphne.server] HTTP/2 support not enabled (install the http2 and tls Twisted extras)
+[2026-03-01 17:37:14] INFO [daphne.server] Configuring endpoint tcp:port=8000:interface=0.0.0.0
+[2026-03-01 17:37:14] INFO [daphne.server] Listening on TCP address 0.0.0.0:8000
+[2026-03-01 17:37:57] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:37:57] INFO [config.middleware] Request: POST /api/users/login
+[2026-03-01 17:37:57] INFO [apps.users.api] Login attempt for identifier: student@example.com
+[2026-03-01 17:37:58] INFO [apps.users.api] Login successful for user: student (student@example.com)
+[2026-03-01 17:37:58] INFO [config.middleware] Response: 200 (took 0.56s)
+[2026-03-01 17:37:58] INFO [django.channels.server] HTTP POST /api/users/login 200 [0.56, 127.0.0.1:50982]
+[2026-03-01 17:37:58] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:37:58] INFO [config.middleware] Request: GET /api/users/me
+[2026-03-01 17:37:58] INFO [apps.users.api] User profile retrieved for: student@example.com
+[2026-03-01 17:37:58] INFO [config.middleware] Response: 200 (took 0.04s)
+[2026-03-01 17:37:58] INFO [django.channels.server] HTTP GET /api/users/me 200 [0.05, 127.0.0.1:50988]
+[2026-03-01 17:37:58] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:37:58] INFO [config.middleware] Request: GET /api/courses/stats/me
+[2026-03-01 17:37:58] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:37:58] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:37:58] INFO [config.middleware] Request: GET /api/assessments/overall-readiness
+[2026-03-01 17:37:58] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:37:58] INFO [config.middleware] Request: GET /api/assessments/latest-summary
+[2026-03-01 17:37:58] INFO [config.middleware] Request: GET /api/assessments/readiness-history
+[2026-03-01 17:37:58] INFO [config.middleware] Response: 200 (took 0.02s)
+[2026-03-01 17:37:58] INFO [django.channels.server] HTTP GET /api/courses/stats/me 200 [0.04, 127.0.0.1:50998]
+[2026-03-01 17:37:58] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:37:58] INFO [config.middleware] Request: GET /api/courses/stats/me
+[2026-03-01 17:37:58] INFO [config.middleware] Response: 200 (took 0.08s)
+[2026-03-01 17:37:58] INFO [django.channels.server] HTTP GET /api/assessments/readiness-history 200 [0.09, 127.0.0.1:51030]
+[2026-03-01 17:37:58] INFO [config.middleware] Response: 200 (took 0.08s)
+[2026-03-01 17:37:58] INFO [config.middleware] Response: 200 (took 0.10s)
+[2026-03-01 17:37:58] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:37:58] INFO [config.middleware] Request: GET /api/assessments/readiness-history
+[2026-03-01 17:37:58] INFO [django.channels.server] HTTP GET /api/courses/stats/me 200 [0.09, 127.0.0.1:51042]
+[2026-03-01 17:37:58] INFO [django.channels.server] HTTP GET /api/assessments/latest-summary 200 [0.12, 127.0.0.1:51006]
+[2026-03-01 17:37:58] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:37:58] INFO [config.middleware] Request: GET /api/assessments/latest-summary
+[2026-03-01 17:37:58] INFO [config.middleware] Response: 200 (took 0.07s)
+[2026-03-01 17:37:58] INFO [django.channels.server] HTTP GET /api/assessments/readiness-history 200 [0.09, 127.0.0.1:51048]
+[2026-03-01 17:37:58] INFO [config.middleware] Response: 200 (took 0.06s)
+[2026-03-01 17:37:58] INFO [django.channels.server] HTTP GET /api/assessments/latest-summary 200 [0.07, 127.0.0.1:51064]
+[2026-03-01 17:37:58] INFO [config.middleware] Response: 200 (took 0.42s)
+[2026-03-01 17:37:58] INFO [django.channels.server] HTTP GET /api/assessments/overall-readiness 200 [0.43, 127.0.0.1:51018]
+[2026-03-01 17:37:58] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:37:58] INFO [config.middleware] Request: GET /api/assessments/overall-readiness
+[2026-03-01 17:37:58] INFO [config.middleware] Response: 200 (took 0.12s)
+[2026-03-01 17:37:58] INFO [django.channels.server] HTTP GET /api/assessments/overall-readiness 200 [0.13, 127.0.0.1:51080]
+[2026-03-01 17:38:42] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:42] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:42] INFO [config.middleware] Request: OPTIONS /api/assessments/stats
+[2026-03-01 17:38:42] INFO [config.middleware] Request: OPTIONS /api/assessments/stats
+[2026-03-01 17:38:42] INFO [config.middleware] Response: 200 (took 0.00s)
+[2026-03-01 17:38:42] INFO [config.middleware] Response: 200 (took 0.00s)
+[2026-03-01 17:38:42] INFO [django.channels.server] HTTP OPTIONS /api/assessments/stats 200 [0.00, 127.0.0.1:47896]
+[2026-03-01 17:38:42] INFO [django.channels.server] HTTP OPTIONS /api/assessments/stats 200 [0.00, 127.0.0.1:47912]
+[2026-03-01 17:38:43] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:43] INFO [config.middleware] Request: GET /api/assessments/stats
+[2026-03-01 17:38:43] INFO [config.middleware] Response: 200 (took 0.02s)
+[2026-03-01 17:38:43] INFO [django.channels.server] HTTP GET /api/assessments/stats 200 [0.02, 127.0.0.1:47928]
+[2026-03-01 17:38:43] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:43] INFO [config.middleware] Request: GET /api/assessments/stats
+[2026-03-01 17:38:43] INFO [config.middleware] Response: 200 (took 0.01s)
+[2026-03-01 17:38:43] INFO [django.channels.server] HTTP GET /api/assessments/stats 200 [0.01, 127.0.0.1:47928]
+[2026-03-01 17:38:44] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:44] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:44] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:44] INFO [config.middleware] Request: OPTIONS /api/assessments/history
+[2026-03-01 17:38:44] INFO [config.middleware] Request: GET /api/assessments/stats
+[2026-03-01 17:38:44] INFO [config.middleware] Request: OPTIONS /api/assessments/history
+[2026-03-01 17:38:44] INFO [config.middleware] Response: 200 (took 0.00s)
+[2026-03-01 17:38:44] INFO [config.middleware] Response: 200 (took 0.00s)
+[2026-03-01 17:38:44] INFO [django.channels.server] HTTP OPTIONS /api/assessments/history 200 [0.00, 127.0.0.1:47912]
+[2026-03-01 17:38:44] INFO [django.channels.server] HTTP OPTIONS /api/assessments/history 200 [0.00, 127.0.0.1:47896]
+[2026-03-01 17:38:44] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:44] INFO [config.middleware] Request: GET /api/assessments/history
+[2026-03-01 17:38:44] INFO [config.middleware] Response: 200 (took 0.02s)
+[2026-03-01 17:38:44] INFO [django.channels.server] HTTP GET /api/assessments/stats 200 [0.02, 127.0.0.1:47928]
+[2026-03-01 17:38:44] INFO [config.middleware] Response: 200 (took 0.02s)
+[2026-03-01 17:38:44] INFO [django.channels.server] HTTP GET /api/assessments/history 200 [0.02, 127.0.0.1:47932]
+[2026-03-01 17:38:44] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:44] INFO [config.middleware] Request: GET /api/assessments/history
+[2026-03-01 17:38:44] INFO [config.middleware] Response: 200 (took 0.01s)
+[2026-03-01 17:38:44] INFO [django.channels.server] HTTP GET /api/assessments/history 200 [0.01, 127.0.0.1:47932]
+[2026-03-01 17:38:46] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:46] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:46] INFO [config.middleware] Request: OPTIONS /api/assessments/b8e4f28c-f911-4260-8453-3baf367146aa/ai-feedback
+[2026-03-01 17:38:46] INFO [config.middleware] Request: OPTIONS /api/assessments/b8e4f28c-f911-4260-8453-3baf367146aa/ai-feedback
+[2026-03-01 17:38:46] INFO [config.middleware] Response: 200 (took 0.00s)
+[2026-03-01 17:38:46] INFO [config.middleware] Response: 200 (took 0.00s)
+[2026-03-01 17:38:46] INFO [django.channels.server] HTTP OPTIONS /api/assessments/b8e4f28c-f911-4260-8453-3baf367146aa/ai-feedback 200 [0.00, 127.0.0.1:47896]
+[2026-03-01 17:38:46] INFO [django.channels.server] HTTP OPTIONS /api/assessments/b8e4f28c-f911-4260-8453-3baf367146aa/ai-feedback 200 [0.00, 127.0.0.1:47912]
+[2026-03-01 17:38:46] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:46] INFO [config.middleware] Request: GET /api/assessments/b8e4f28c-f911-4260-8453-3baf367146aa/ai-feedback
+[2026-03-01 17:38:46] INFO [config.middleware] Response: 200 (took 0.07s)
+[2026-03-01 17:38:46] INFO [django.channels.server] HTTP GET /api/assessments/b8e4f28c-f911-4260-8453-3baf367146aa/ai-feedback 200 [0.07, 127.0.0.1:47932]
+[2026-03-01 17:38:46] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:38:46] INFO [config.middleware] Request: GET /api/assessments/b8e4f28c-f911-4260-8453-3baf367146aa/ai-feedback
+[2026-03-01 17:38:46] INFO [config.middleware] Response: 200 (took 0.06s)
+[2026-03-01 17:38:46] INFO [django.channels.server] HTTP GET /api/assessments/b8e4f28c-f911-4260-8453-3baf367146aa/ai-feedback 200 [0.06, 127.0.0.1:47932]
+[2026-03-01 17:39:15] INFO [config.middleware] --- New Client Connected: 127.0.0.1 ---
+[2026-03-01 17:39:15] INFO [config.middleware] Request: POST /api/users/login
+[2026-03-01 17:39:15] INFO [apps.users.api] Login attempt for identifier: student@example.com
+[2026-03-01 17:39:15] INFO [apps.users.api] Login successful for user: student (student@example.com)
+[2026-03-01 17:39:19] INFO [config.middleware] Response: 200 (took 3.45s)
+[2026-03-01 17:39:19] INFO [django.channels.server] HTTP POST /api/users/login 200 [4.08, 127.0.0.1:44726]

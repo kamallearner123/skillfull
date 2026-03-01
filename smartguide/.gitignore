@@ -1,0 +1,19 @@
+# Model weights (potentially huge — download separately)
+models/
+*.gguf
+*.bin
+*.safetensors
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Build
+dist/
+.dockerignore

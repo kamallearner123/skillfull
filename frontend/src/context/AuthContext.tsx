@@ -11,11 +11,15 @@ export interface User {
     email: string;
     role: UserRole;
     avatar?: string;
+    registration_id?: string;
+    department_name?: string;
+    graduation_year?: number;
+    cgpa?: string;
 }
 
 interface AuthContextType {
     user: User | null;
-    login: (role: UserRole) => void; // TODO: Replace with real login logic
+    login: (email?: string, password?: string, role?: UserRole) => Promise<void>;
     logout: () => void;
     isAuthenticated: boolean;
     isLoading: boolean;
@@ -41,24 +45,27 @@ export function AuthProvider({ children }: { children: ReactNode }) {
             });
     }, []);
 
-    const login = async (role: UserRole) => {
+    const login = async (email?: string, password?: string, role?: UserRole) => {
         try {
-            // Note: The backend login expects email and password. 
-            // For now, we are hardcoding a password for demo purposes based on the role, 
-            // but in a real app, you would pass the password from a form.
-            const email = role === 'SUPER_ADMIN' ? 'admin@educollab.com' :
-                role === 'STUDENT' ? 'student@example.com' :
-                    role === 'MENTOR' ? 'mentor@example.com' :
-                        `test.${role.toLowerCase()}@example.com`;
+            // If email/password are provided, use them. Otherwise use demo defaults.
+            const effectiveEmail = email || (
+                role === 'SUPER_ADMIN' ? 'admin@educollab.com' :
+                    role === 'STUDENT' ? 'student@example.com' :
+                        role === 'MENTOR' ? 'mentor@example.com' :
+                            role === 'DEPT_ADMIN' ? 'deptadmin@example.com' :
+                                'student@example.com'
+            );
 
-            const password = role === 'SUPER_ADMIN' ? 'admin123' : 'password123';
+            const effectivePassword = password || (
+                (role === 'SUPER_ADMIN' || role === 'DEPT_ADMIN') ? 'admin123' : 'password123'
+            );
 
-            await api.post('/users/login', { email, password });
+            await api.post('/users/login', { email: effectiveEmail, password: effectivePassword });
             const res = await api.get('/users/me');
             setUser(res.data);
         } catch (error) {
             console.error('Login failed', error);
-            alert('Login failed. Please ensure the backend is running and users are created.');
+            throw error; // Rethrow to handle in the component
         }
     };
 

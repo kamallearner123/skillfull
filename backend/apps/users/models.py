@@ -14,11 +14,22 @@ class User(AbstractUser, BaseModel):
     role = models.CharField(max_length=20, choices=Role.choices, default=Role.STUDENT)
     avatar = models.CharField(max_length=500, null=True, blank=True)
     
+    # Student specific fields
+    registration_id = models.CharField(max_length=50, null=True, blank=True)
+    department = models.ForeignKey('teams.Department', on_delete=models.SET_NULL, null=True, blank=True, related_name='students')
+    graduation_year = models.IntegerField(null=True, blank=True)
+    cgpa = models.DecimalField(max_digits=4, decimal_places=2, null=True, blank=True)
+    
     # For Google OAuth mapping
     google_id = models.CharField(max_length=255, null=True, blank=True)
 
     USERNAME_FIELD = 'email'
     REQUIRED_FIELDS = ['username']
+
+    @property
+    def name(self):
+        full_name = f"{self.first_name} {self.last_name}".strip()
+        return full_name or self.username
 
     def __str__(self):
         return self.email

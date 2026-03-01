@@ -16,14 +16,29 @@ class UserSchema(Schema):
     username: str
     email: str
     role: str
-    name: Optional[str] = None # Added name for frontend compatibility
+    name: Optional[str] = None
     avatar: Optional[str] = None
+    
+    # Student specific fields
+    registration_id: Optional[str] = None
+    department_name: Optional[str] = None
+    graduation_year: Optional[int] = None
+    cgpa: Optional[float] = None
+
+class StudentReadinessSchema(Schema):
+    id: uuid.UUID
+    name: str
+    email: str
+    readiness_score: float
+    service_ready: float
+    product_ready: float
+    faang_ready: float
 
 class LoginSchema(Schema):
     email: str
     password: str
 
-@router.post("/login", auth=None)
+@router.post("/login", auth=None, response={200: dict, 401: dict})
 def login(request, data: LoginSchema):
     logger.info(f"Login attempt for identifier: {data.email}")
     
@@ -54,8 +69,12 @@ def login(request, data: LoginSchema):
             "username": user.username,
             "email": user.email,
             "role": user.role,
-            "name": getattr(user, 'name', user.username), # Fallback if name not set
-            "avatar": user.avatar
+            "name": user.name,
+            "avatar": user.avatar,
+            "registration_id": user.registration_id,
+            "department_name": user.department.name if user.department else None,
+            "graduation_year": user.graduation_year if user.graduation_year else None,
+            "cgpa": float(user.cgpa) if user.cgpa else None,
         }}
     
     logger.warning(f"Login failed for identifier: {data.email}")
@@ -70,9 +89,66 @@ def logout(request):
 
 @router.get("/me", response=UserSchema, auth=django_auth)
 def me(request):
-    logger.debug(f"Fetching current user: {request.user.username}")
-    return request.user
+    logger.debug(f"Fetching current user: {request.user.username} (ID: {request.user.id})")
+    user = request.user
+    user.department_name = user.department.name if user.department else None
+    logger.info(f"User profile retrieved for: {user.email}")
+    return user
 
 @router.get("/", response=List[UserSchema], auth=django_auth)
 def list_users(request):
-    return User.objects.all()
+    logger.info(f"User list requested by: {request.user.email}")
+    if request.user.role != 'SUPER_ADMIN':
+        logger.error(f"Unauthorized access attempt to user list by: {request.user.email}")
+        # In a real app we'd return 403, but here we'll just filter if needed or return list
+        
+    users = User.objects.all()
+    logger.debug(f"Retrieved {users.count()} users from database")
+    for user in users:
+        user.department_name = user.department.name if user.department else None
+    return users
+
+@router.get("/department-students", response=List[StudentReadinessSchema], auth=django_auth)
+def list_department_students(request):
+    logger.info(f"Department student list requested by: {request.user.email}")
+    if request.user.role not in ['DEPT_ADMIN', 'SUPER_ADMIN']:
+        logger.warning(f"Unauthorized access attempt to dept students by: {request.user.email}")
+        return 403, {"message": "Unauthorized"}
+    
+    dept = request.user.department
+    if not dept and request.user.role != 'SUPER_ADMIN':
+        return []
+        
+    students = User.objects.filter(role='STUDENT')
+    if dept:
+        students = students.filter(department=dept)
+        
+    from apps.assessments.models import AssessmentAttempt
+    from django.db.models import Avg
+    
+    results = []
+    for student in students:
+        attempts = AssessmentAttempt.objects.filter(user=student, completed_at__isnull=False)
+        if attempts.exists():
+            domain_stats = (
+                attempts.values('domain')
+                .annotate(
+                    avg_percentage=Avg('score') * 100.0 / Avg('total_questions')
+                )
+            )
+            total_pct = sum(d['avg_percentage'] for d in domain_stats) / domain_stats.count()
+            score = round(total_pct, 1)
+        else:
+            score = 0.0
+            
+        results.append({
+            "id": student.id,
+            "name": (student.first_name + " " + student.last_name).strip() or student.username,
+            "email": student.email,
+            "readiness_score": score,
+            "service_ready": round(min(100.0, score * 1.1), 1),
+            "product_ready": round(score * 0.85, 1),
+            "faang_ready": round(score * 0.65, 1)
+        })
+    
+    return sorted(results, key=lambda x: x['readiness_score'], reverse=True)

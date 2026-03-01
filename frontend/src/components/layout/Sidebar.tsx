@@ -7,7 +7,8 @@ import {
     Users,
     LogOut,
     GraduationCap,
-    Cpu
+    Cpu,
+    Bot
 } from 'lucide-react';
 import { Link, useLocation } from 'react-router-dom';
 import { useAuth } from '../../context/AuthContext';
@@ -22,6 +23,7 @@ export function Sidebar() {
             case 'STUDENT':
                 return [
                     { to: '/student/dashboard', icon: LayoutDashboard, label: 'Dashboard' },
+                    { to: '/student/smartguide', icon: Bot, label: 'SmartGuide' },
                     { to: '/student/modules', icon: BookOpen, label: 'My Learning' },
                     { to: '/student/assessment', icon: Cpu, label: 'Self Assessment' },
                     { to: '/student/jobs', icon: Briefcase, label: 'Placements' },
@@ -32,6 +34,12 @@ export function Sidebar() {
                 return [
                     { to: '/mentor/dashboard', icon: LayoutDashboard, label: 'Dashboard' },
                     { to: '/mentor/students', icon: Users, label: 'My Students' },
+                    { to: '/chat', icon: MessageSquare, label: 'Messages' },
+                ];
+            case 'DEPT_ADMIN':
+            case 'SUPER_ADMIN':
+                return [
+                    { to: '/admin/dashboard', icon: LayoutDashboard, label: 'Dashboard' },
                     { to: '/chat', icon: MessageSquare, label: 'Messages' },
                 ];
             default:
