@@ -17,3 +17,10 @@ venv/
 # Build
 dist/
 .dockerignore
+
+# VectorDB and artifacts
+chroma_db/
+sample
+a.out
+sample.c
+sample.rs
